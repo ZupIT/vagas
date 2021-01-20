@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://uploads-ssl.webflow.com/5cac6236f8d44ddee118d97c/5e666d594f66c9c1e9c3ce74_LogoRGB2.png" alt="logo da zup" height="100">
+    <img src="https://raw.githubusercontent.com/ZupIT/vagas/master/liberdade.png" alt="zup liberdade">
 </p>
 <h1 align="center">Evolua Exponencialmente</h1>
 <br>
