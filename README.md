@@ -59,6 +59,16 @@ Por que criamos tecnologia: https://www.youtube.com/watch?v=dncmhBEjko8
 - [Pessoa Desenvolvedora Back-end Java Sênior/Especialista](https://boards.greenhouse.io/zupinnovation/jobs/4383431003)
 - [Pessoa Desenvolvedora iOS](https://boards.greenhouse.io/zupinnovation/jobs/4383438003)
 - [Tech Lead](https://boards.greenhouse.io/zupinnovation/jobs/4383447003)
+- [Analista de Dados Sênior](https://boards.greenhouse.io/zupinnovation/jobs/4409046003)
+- [Pessoa Desenvolvedora Backend Sênior - Java e/ou Python](https://boards.greenhouse.io/zupinnovation/jobs/4376544003)
+- [Pessoa Desenvolvedora Front-end React](https://boards.greenhouse.io/zupinnovation/jobs/4395365003)
+- [Pessoa Desenvolvedora Frontend Sênior (React/Angular) - Produtos](https://boards.greenhouse.io/zupinnovation/jobs/4409051003)
+- [Pessoa Engenheira de Analytics Sênior - Data Full Stack](https://boards.greenhouse.io/zupinnovation/jobs/4409044003)
+- [Pessoa Engenheira de Dados - Produtos](https://boards.greenhouse.io/zupinnovation/jobs/4383553003)
+- [Principal Produtos](https://boards.greenhouse.io/zupinnovation/jobs/4395447003)
+- [Product Lead](https://boards.greenhouse.io/zupinnovation/jobs/4390133003)
+- [Desenvolvedor(a) Netsuite](https://boards.greenhouse.io/zupinnovation/jobs/4409773003)
+- [Security Engineer - Blue Team](https://boards.greenhouse.io/zupinnovation/jobs/4326495003)
 <!-- BLOG-POST-LIST:END -->
 
 
