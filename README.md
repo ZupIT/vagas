@@ -28,20 +28,24 @@ Por que criamos tecnologia: https://www.youtube.com/watch?v=dncmhBEjko8
     </p>
 </div>
 <div>
+    <br>
     <p>
     <a href="https://RitchieCLI.io/"><img align="left" width="214" height="53" src="images/ritchie.png" alt="RitchieCLI"></a>
     </p>
 </div>
 <div>
+    <br>
     <p>
     <a href="https://Beagle.io/"><img align="left" width="214" height="53" src="images/beagle.png" alt="Beagle"></a>
     </p>
 </div>
 <div>
+    <br>
     <p>
     <a href="https://Horusec.io/"><img align="left" width="214" height="53" src="images/horusec.png" alt="Horusec"></a>
     </p>
 </div>
+<br>
 
 ## Veja nossas oportunidades
 
