@@ -24,25 +24,25 @@ Por que criamos tecnologia: https://www.youtube.com/watch?v=dncmhBEjko8
 
 <div>
     <p>
-    <a href="https://charlescd.io/"><img align="left" width="214" height="53" src="images/charles.png" alt="CharlesCD"></a>
+    <a href="https://charlescd.io/"><img width="237" height="58" src="images/charles.png" alt="CharlesCD"></a>
     </p>
 </div>
 <div>
     <br>
     <p>
-    <a href="https://RitchieCLI.io/"><img align="left" width="214" height="53" src="images/ritchie.png" alt="RitchieCLI"></a>
+    <a href="https://RitchieCLI.io/"><img width="214" height="53" src="images/ritchie.png" alt="RitchieCLI"></a>
     </p>
 </div>
 <div>
     <br>
     <p>
-    <a href="https://Beagle.io/"><img align="left" width="214" height="53" src="images/beagle.png" alt="Beagle"></a>
+    <a href="https://Beagle.io/"><img width="202" height="56" src="images/beagle.png" alt="Beagle"></a>
     </p>
 </div>
 <div>
     <br>
     <p>
-    <a href="https://Horusec.io/"><img align="left" width="214" height="53" src="images/horusec.png" alt="Horusec"></a>
+    <a href="https://Horusec.io/"><img width="209" height="57" src="images/horusec.png" alt="Horusec"></a>
     </p>
 </div>
 <br>
