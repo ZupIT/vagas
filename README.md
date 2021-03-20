@@ -16,29 +16,27 @@
 
 Conheça nosso modelo de trabalho remoto e saiba como estamos nos estruturando para ser a melhor empresa para se trabalhar nesse modelo: [https://www.zup.com.br/trabalho-remoto](https://www.zup.com.br/trabalho-remoto?utm_source=github&utm_medium=referral&utm_campaign=sobre-nos&utm_term=jan)
 
-Acesse nosso Glassdoor e saiba o que os zuppers contam sobre a empresa: https://www.glassdoor.com.br/Vis%C3%A3o-geral/Trabalhar-na-Zup-Innovation-EI_IE2482761.13,27.htm
+Acesse nosso [Glassdoor](https://www.glassdoor.com.br/Vis%C3%A3o-geral/Trabalhar-na-Zup-Innovation-EI_IE2482761.13,27.htm) e saiba o que os zuppers contam sobre a empresa.
 
 Por que criamos tecnologia: https://www.youtube.com/watch?v=dncmhBEjko8 
 
-## Conheça os projetos Open Source que compõem o nosso stack tecnológico feito exclusivamente para desenvolvedores.
+## Conheça as soluções Open Source da Zup
 
 <p>
 <a href="https://charlescd.io/"><img align="left" width="214" height="53" src="images/charles.png" alt="CharlesCD"></a>
 </p>
+<br>
 <p>
 <a href="https://RitchieCLI.io/"><img align="left" width="214" height="53" src="images/ritchie.png" alt="RitchieCLI"></a>
 </p>
+<br>
 <p>
 <a href="https://Beagle.io/"><img align="left" width="214" height="53" src="images/beagle.png" alt="Beagle"></a>
 </p>
+<br>
 <p>
 <a href="https://Horusec.io/"><img align="left" width="214" height="53" src="images/horusec.png" alt="Horusec"></a>
 </p>
-
-- [CharlesCD](https://charlescd.io/) 
-- [RitchieCLI](https://ritchiecli.io/)
-- [Beagle](https://usebeagle.io/)
-- [Horusec](https://horusec.io/)
 
 ## Veja nossas oportunidades
 
