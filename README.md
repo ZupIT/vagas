@@ -8,7 +8,7 @@
 [![YouTube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCJWZyJ-36yNscqnnHiwjkhQ) 
 
 <h1 align="center">#VEMPRAZUP</h1>
-<br>
+<br/>
 
 <strong>Criamos tecnologia!</strong> Desenvolvemos produtos para melhorar a developer experience, diminuindo o tempo entre uma ideia e um commit. Assim, ajudamos empresas a tornarem-se tech companies e evoluímos a experiência de quem está dentro e fora. Muito além de produtos prontos, entregamos estratégia, cultura e crescimento exponencial.
 
@@ -25,18 +25,19 @@ Por que criamos tecnologia: https://www.youtube.com/watch?v=dncmhBEjko8
 <p>
 <a href="https://charlescd.io/"><img align="left" width="214" height="53" src="images/charles.png" alt="CharlesCD"></a>
 </p>
-<br>
+<br/>
 <p>
 <a href="https://RitchieCLI.io/"><img align="left" width="214" height="53" src="images/ritchie.png" alt="RitchieCLI"></a>
 </p>
-<br>
+<br/>
 <p>
 <a href="https://Beagle.io/"><img align="left" width="214" height="53" src="images/beagle.png" alt="Beagle"></a>
 </p>
-<br>
+<br/>
 <p>
 <a href="https://Horusec.io/"><img align="left" width="214" height="53" src="images/horusec.png" alt="Horusec"></a>
 </p>
+<br/>
 
 ## Veja nossas oportunidades
 
