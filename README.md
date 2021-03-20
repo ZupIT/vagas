@@ -1,6 +1,5 @@
-<p align="center">
-    <img src="https://raw.githubusercontent.com/ZupIT/vagas/master/liberdade.png" alt="zup liberdade">
-</p>
+![](https://i.ibb.co/xGrLHwj/header-nova-pagina-carreiras.gif)
+
 <h1 align="center">Evolua Exponencialmente</h1>
 <br>
 
