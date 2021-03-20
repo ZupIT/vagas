@@ -1,14 +1,10 @@
 ![](images/header-nova-pagina-carreiras.gif)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/zupinnovation/) 
+[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ZupInnovation) 
+[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ZupInnovation) 
+[![YouTube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCJWZyJ-36yNscqnnHiwjkhQ) 
 
 <h1 align="center">#VEMPRAZUP</h1>
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]
-(https://www.linkedin.com/company/zupinnovation/) 
-[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]
-(https://twitter.com/ZupInnovation) 
-[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]
-(https://twitter.com/ZupInnovation) 
-[![YouTube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]
-(https://www.youtube.com/channel/UCJWZyJ-36yNscqnnHiwjkhQ) 
 <br>
 
 <strong>Criamos tecnologia!</strong> Desenvolvemos produtos para melhorar a developer experience, diminuindo o tempo entre uma ideia e um commit. Assim, ajudamos empresas a tornarem-se tech companies e evoluímos a experiência de quem está dentro e fora. Muito além de produtos prontos, entregamos estratégia, cultura e crescimento exponencial.
