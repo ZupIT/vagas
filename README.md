@@ -1,4 +1,4 @@
-![](https://i.ibb.co/xGrLHwj/header-nova-pagina-carreiras.gif)
+![](images/header-nova-pagina-carreiras.gif)
 
 <h1 align="center">Evolua Exponencialmente</h1>
 <br>
