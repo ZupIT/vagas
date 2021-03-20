@@ -23,6 +23,16 @@ Por que criamos tecnologia: https://www.youtube.com/watch?v=dncmhBEjko8
 ## Veja nossas oportunidades
 
 <!-- BLOG-POST-LIST:START -->
+- [Especialista em Desenvolvimento de Competências e Potencial Humano](https://boards.greenhouse.io/zupinnovation/jobs/4413448003)
+- [Analista de Testes Automatizados Sênior | Especialista](https://boards.greenhouse.io/zupinnovation/jobs/4383422003)
+- [Desenvolvedora Back-end Java Sênior - Exclusiva para Mulheres Cis e Trans](https://boards.greenhouse.io/zupinnovation/jobs/4422608003)
+- [DevOps || Site Reliability Engineer](https://boards.greenhouse.io/zupinnovation/jobs/4383442003)
+- [Especialista AWS API Gateway](https://boards.greenhouse.io/zupinnovation/jobs/4394965003)
+- [Pessoa Desenvolvedora Android](https://boards.greenhouse.io/zupinnovation/jobs/4383425003)
+- [Pessoa Desenvolvedora Back-end Java](https://boards.greenhouse.io/zupinnovation/jobs/4347905003)
+- [Pessoa Desenvolvedora Back-end Java Sênior/Especialista](https://boards.greenhouse.io/zupinnovation/jobs/4383431003)
+- [Pessoa Desenvolvedora iOS](https://boards.greenhouse.io/zupinnovation/jobs/4383438003)
+- [Tech Lead](https://boards.greenhouse.io/zupinnovation/jobs/4383447003)
 <!-- BLOG-POST-LIST:END -->
 
 
