@@ -22,7 +22,11 @@ Por que criamos tecnologia: https://www.youtube.com/watch?v=dncmhBEjko8
 
 ## Conheça os projetos Open Source que compõem o nosso stack tecnológico feito exclusivamente para desenvolvedores.
 
-- [CharlesCD](https://charlescd.io/) <img align="right" width="50" height="50" src="images/charles.png">
+<p>
+<a href="https://charlescd.io/"><img align="left" width="214" height="53" src="images/charles.png" alt="CharlesCD"></a>
+</p>
+
+- [CharlesCD](https://charlescd.io/) 
 - [RitchieCLI](https://ritchiecli.io/)
 - [Beagle](https://usebeagle.io/)
 - [Horusec](https://horusec.io/)
