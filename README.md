@@ -23,7 +23,8 @@ Por que criamos tecnologia: https://www.youtube.com/watch?v=dncmhBEjko8
 
 ## Veja nossas oportunidades
 
-- [Desenvolvedor(a) Back-end Java](https://www.zup.com.br/vagas/desenvolvedora-back-end-java?gh_jid=4323440003?utm_source=github&utm_medium=referral&utm_campaign=sobre-nos&utm_term=jan&gh_src=0d9908723us)
-- [DevOps || Site Reliability Engineer](https://www.zup.com.br/vagas/devops-sre?gh_jid=4070201003?utm_source=github&utm_medium=referral&utm_campaign=sobre-nos&utm_term=jan&gh_src=0d9908723us)
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 
 Você também pode acessar nossa página de [carreira](https://www.zup.com.br/carreiras?utm_source=github&utm_medium=referral&utm_campaign=sobre-nos&utm_term=jan) e conhecer todas as nossas oportunidades.
