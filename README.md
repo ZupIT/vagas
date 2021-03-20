@@ -45,7 +45,6 @@ Por que criamos tecnologia: https://www.youtube.com/watch?v=dncmhBEjko8
     <a href="https://Horusec.io/"><img width="209" height="57" src="images/horusec.png" alt="Horusec"></a>
     </p>
 </div>
-<br>
 
 ## Veja nossas oportunidades
 
