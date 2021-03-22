@@ -49,6 +49,9 @@ Por que criamos tecnologia: https://www.youtube.com/watch?v=dncmhBEjko8
 ## Veja nossas oportunidades
 
 <!-- BLOG-POST-LIST:START -->
+- [Prof Full Stack Java](https://boards.greenhouse.io/zupinnovation/jobs/4420827003)
+- [Devops/SRE](https://boards.greenhouse.io/zupinnovation/jobs/4424946003)
+- [Pessoa Desenvolvedora de Java/Kotlin - Sênior](https://boards.greenhouse.io/zupinnovation/jobs/4422468003)
 - [Especialista em Desenvolvimento de Competências e Potencial Humano](https://boards.greenhouse.io/zupinnovation/jobs/4413448003)
 - [Analista de Testes Automatizados Sênior | Especialista](https://boards.greenhouse.io/zupinnovation/jobs/4383422003)
 - [Desenvolvedora Back-end Java Sênior - Exclusiva para Mulheres Cis e Trans](https://boards.greenhouse.io/zupinnovation/jobs/4422608003)
@@ -66,9 +69,6 @@ Por que criamos tecnologia: https://www.youtube.com/watch?v=dncmhBEjko8
 - [Pessoa Engenheira de Analytics Sênior - Data Full Stack](https://boards.greenhouse.io/zupinnovation/jobs/4409044003)
 - [Pessoa Engenheira de Dados - Produtos](https://boards.greenhouse.io/zupinnovation/jobs/4383553003)
 - [Principal Produtos](https://boards.greenhouse.io/zupinnovation/jobs/4395447003)
-- [Product Lead](https://boards.greenhouse.io/zupinnovation/jobs/4390133003)
-- [Desenvolvedor(a) Netsuite](https://boards.greenhouse.io/zupinnovation/jobs/4409773003)
-- [Security Engineer - Blue Team](https://boards.greenhouse.io/zupinnovation/jobs/4326495003)
 <!-- BLOG-POST-LIST:END -->
 
 
