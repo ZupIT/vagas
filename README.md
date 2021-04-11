@@ -49,8 +49,10 @@ Por que criamos tecnologia: https://www.youtube.com/watch?v=dncmhBEjko8
 ## Veja nossas oportunidades
 
 <!-- BLOG-POST-LIST:START -->
-- [Pessoa Engenheira de Dados - Produtos](https://boards.greenhouse.io/zupinnovation/jobs/4383553003)
-- [Principal Produtos](https://boards.greenhouse.io/zupinnovation/jobs/4395447003)
+- [Analista de Testes Automatizados Pleno - Exclusiva para Pessoa com Deficiência](https://boards.greenhouse.io/zupinnovation/jobs/4452644003)
+- [Analista de Testes Automatizados Sênior - Exclusiva para Pessoa com Deficiência](https://boards.greenhouse.io/zupinnovation/jobs/4452646003)
+- [Pessoa Desenvolvedora Back-end Java Pleno - Exclusiva para Pessoa com Deficiência](https://boards.greenhouse.io/zupinnovation/jobs/4452372003)
+- [Pessoa Desenvolvedora Back-end Java Sênior - Exclusiva para Pessoa com Deficiêcia](https://boards.greenhouse.io/zupinnovation/jobs/4452385003)
 - [Pessoa Desenvolvedora de Java/Kotlin - Sênior](https://boards.greenhouse.io/zupinnovation/jobs/4444659003)
 - [Professor(a) Full Stack Java](https://boards.greenhouse.io/zupinnovation/jobs/4420827003)
 - [Analista de Testes Automatizados Sênior | Especialista](https://boards.greenhouse.io/zupinnovation/jobs/4383422003)
@@ -67,8 +69,6 @@ Por que criamos tecnologia: https://www.youtube.com/watch?v=dncmhBEjko8
 - [Pessoa Desenvolvedora Back-end Java](https://boards.greenhouse.io/zupinnovation/jobs/4429462003)
 - [Pessoa Desenvolvedora Backend Sênior - Java e/ou Python](https://boards.greenhouse.io/zupinnovation/jobs/4376544003)
 - [Pessoa Desenvolvedora Front-end React](https://boards.greenhouse.io/zupinnovation/jobs/4395365003)
-- [Pessoa Desenvolvedora Frontend Sênior (React/Angular) - Produtos](https://boards.greenhouse.io/zupinnovation/jobs/4409051003)
-- [Pessoa Engenheira de Analytics Sênior - Data Full Stack](https://boards.greenhouse.io/zupinnovation/jobs/4409044003)
 <!-- BLOG-POST-LIST:END -->
 
 
