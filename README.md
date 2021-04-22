@@ -49,7 +49,7 @@ Por que criamos tecnologia: https://www.youtube.com/watch?v=dncmhBEjko8
 ## Veja nossas oportunidades
 
 <!-- BLOG-POST-LIST:START -->
-- [Analista em Desenvolvimento de Competências e Potencial Humano](https://boards.greenhouse.io/zupinnovation/jobs/4413448003)
+- [Pessoa Engenheira de Analytics Sênior - Data Full Stack](https://boards.greenhouse.io/zupinnovation/jobs/4409044003)
 - [Pessoa Desenvolvedora Frontend Sênior (React/Angular) - Produtos](https://boards.greenhouse.io/zupinnovation/jobs/4409051003)
 - [Pessoa Desenvolvedora Backend Go Sênior](https://boards.greenhouse.io/zupinnovation/jobs/4449956003)
 - [Analista de Testes Automatizados Pleno - Exclusiva para Pessoa com Deficiência](https://boards.greenhouse.io/zupinnovation/jobs/4452644003)
