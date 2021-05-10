@@ -49,6 +49,7 @@ Por que criamos tecnologia: https://www.youtube.com/watch?v=dncmhBEjko8
 ## Veja nossas oportunidades
 
 <!-- BLOG-POST-LIST:START -->
+- [SRE - Produtos](https://boards.greenhouse.io/zupinnovation/jobs/4514125003)
 - [Product Designer](https://boards.greenhouse.io/zupinnovation/jobs/4488414003)
 - [Quality engineer](https://boards.greenhouse.io/zupinnovation/jobs/4449967003)
 - [Software Engineer](https://boards.greenhouse.io/zupinnovation/jobs/4502978003)
@@ -66,7 +67,6 @@ Por que criamos tecnologia: https://www.youtube.com/watch?v=dncmhBEjko8
 - [Pessoa Desenvolvedora Back-end Java Sênior/Especialista](https://boards.greenhouse.io/zupinnovation/jobs/4383431003)
 - [Pessoa Desenvolvedora iOS](https://boards.greenhouse.io/zupinnovation/jobs/4383438003)
 - [Tech Lead](https://boards.greenhouse.io/zupinnovation/jobs/4383447003)
-- [Analista de Dados Sênior](https://boards.greenhouse.io/zupinnovation/jobs/4409046003)
 - [Pessoa Desenvolvedora Back-end Java](https://boards.greenhouse.io/zupinnovation/jobs/4429462003)
 - [Pessoa Desenvolvedora Front-end React](https://boards.greenhouse.io/zupinnovation/jobs/4395365003)
 <!-- BLOG-POST-LIST:END -->
