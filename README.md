@@ -49,8 +49,8 @@ Por que criamos tecnologia: https://www.youtube.com/watch?v=dncmhBEjko8
 ## Veja nossas oportunidades
 
 <!-- BLOG-POST-LIST:START -->
+- [Business and Operations Recruiter](https://boards.greenhouse.io/zupinnovation/jobs/4516926003)
 - [SRE - Produtos](https://boards.greenhouse.io/zupinnovation/jobs/4514125003)
-- [Product Designer](https://boards.greenhouse.io/zupinnovation/jobs/4488414003)
 - [Quality engineer](https://boards.greenhouse.io/zupinnovation/jobs/4449967003)
 - [Software Engineer](https://boards.greenhouse.io/zupinnovation/jobs/4502978003)
 - [Tech Lead NodeJs](https://boards.greenhouse.io/zupinnovation/jobs/4504628003)
