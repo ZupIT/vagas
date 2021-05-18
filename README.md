@@ -51,8 +51,6 @@ Por que criamos tecnologia: https://www.youtube.com/watch?v=dncmhBEjko8
 <!-- BLOG-POST-LIST:START -->
 - [Analista Pleno de Segurança da Informação (Red Team)](https://boards.greenhouse.io/zupinnovation/jobs/4428498003)
 - [Security Engineer - Blue Team](https://boards.greenhouse.io/zupinnovation/jobs/4444176003)
-- [Pesquisador (a)](https://boards.greenhouse.io/zupinnovation/jobs/4500771003)
-- [Product Manager](https://boards.greenhouse.io/zupinnovation/jobs/4520604003)
 - [SRE - Produtos](https://boards.greenhouse.io/zupinnovation/jobs/4514125003)
 - [Software Engineer](https://boards.greenhouse.io/zupinnovation/jobs/4502978003)
 - [Pessoa Engenheira de Analytics Sênior - Data Full Stack](https://boards.greenhouse.io/zupinnovation/jobs/4409044003)
