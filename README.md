@@ -49,9 +49,10 @@ Por que criamos tecnologia: https://www.youtube.com/watch?v=dncmhBEjko8
 ## Veja nossas oportunidades
 
 <!-- BLOG-POST-LIST:START -->
+- [Tech Lead SRE](https://boards.greenhouse.io/zupinnovation/jobs/4514242003)
+- [Especialista NOC AWS](https://boards.greenhouse.io/zupinnovation/jobs/4524158003)
 - [Pessoa Desenvolvedora Netsuite](https://boards.greenhouse.io/zupinnovation/jobs/4511404003)
 - [Analista Pleno de Segurança da Informação (Red Team)](https://boards.greenhouse.io/zupinnovation/jobs/4428498003)
-- [Security Engineer - Blue Team](https://boards.greenhouse.io/zupinnovation/jobs/4444176003)
 - [SRE - Produtos](https://boards.greenhouse.io/zupinnovation/jobs/4514125003)
 - [Software Engineer](https://boards.greenhouse.io/zupinnovation/jobs/4502978003)
 - [Pessoa Engenheira de Analytics Sênior - Data Full Stack](https://boards.greenhouse.io/zupinnovation/jobs/4409044003)
