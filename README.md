@@ -52,7 +52,6 @@ Por que criamos tecnologia: https://www.youtube.com/watch?v=dncmhBEjko8
 - [Pessoa Desenvolvedora Netsuite](https://boards.greenhouse.io/zupinnovation/jobs/4511404003)
 - [Analista de Recruitment Marketing](https://boards.greenhouse.io/zupinnovation/jobs/4530643003)
 - [Tech Lead SRE](https://boards.greenhouse.io/zupinnovation/jobs/4514242003)
-- [Especialista NOC AWS](https://boards.greenhouse.io/zupinnovation/jobs/4524158003)
 - [SRE - Produtos](https://boards.greenhouse.io/zupinnovation/jobs/4514125003)
 - [Software Engineer](https://boards.greenhouse.io/zupinnovation/jobs/4502978003)
 - [Pessoa Engenheira de Analytics Sênior - Data Full Stack](https://boards.greenhouse.io/zupinnovation/jobs/4409044003)
