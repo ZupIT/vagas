@@ -49,6 +49,7 @@ Por que criamos tecnologia: https://www.youtube.com/watch?v=dncmhBEjko8
 ## Veja nossas oportunidades
 
 <!-- BLOG-POST-LIST:START -->
+- [Product Manager](https://boards.greenhouse.io/zupinnovation/jobs/4540869003)
 - [Pessoa Desenvolvedora Netsuite](https://boards.greenhouse.io/zupinnovation/jobs/4511404003)
 - [Analista de Recruitment Marketing](https://boards.greenhouse.io/zupinnovation/jobs/4530643003)
 - [Pessoa Engenheira de Analytics Sênior - Data Full Stack](https://boards.greenhouse.io/zupinnovation/jobs/4409044003)
