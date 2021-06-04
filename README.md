@@ -49,7 +49,6 @@ Por que criamos tecnologia: https://www.youtube.com/watch?v=dncmhBEjko8
 ## Veja nossas oportunidades
 
 <!-- BLOG-POST-LIST:START -->
-- [Product Lead](https://boards.greenhouse.io/zupinnovation/jobs/4488405003)
 - [Recruiting Sourcer](https://boards.greenhouse.io/zupinnovation/jobs/4387976003)
 - [Tech Recruiter](https://boards.greenhouse.io/zupinnovation/jobs/4544869003)
 - [Product Manager](https://boards.greenhouse.io/zupinnovation/jobs/4540869003)
