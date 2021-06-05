@@ -49,6 +49,7 @@ Por que criamos tecnologia: https://www.youtube.com/watch?v=dncmhBEjko8
 ## Veja nossas oportunidades
 
 <!-- BLOG-POST-LIST:START -->
+- [Senior Talent Acquisition - Entry Level Programs](https://boards.greenhouse.io/zupinnovation/jobs/4551309003)
 - [Recruiting Sourcer](https://boards.greenhouse.io/zupinnovation/jobs/4387976003)
 - [Tech Recruiter](https://boards.greenhouse.io/zupinnovation/jobs/4544869003)
 - [Product Manager](https://boards.greenhouse.io/zupinnovation/jobs/4540869003)
