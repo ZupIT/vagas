@@ -53,7 +53,6 @@ Por que criamos tecnologia: https://www.youtube.com/watch?v=dncmhBEjko8
 - [Senior Talent Acquisition - Entry Level Programs](https://boards.greenhouse.io/zupinnovation/jobs/4551309003)
 - [Recruiting Sourcer](https://boards.greenhouse.io/zupinnovation/jobs/4387976003)
 - [Tech Recruiter](https://boards.greenhouse.io/zupinnovation/jobs/4544869003)
-- [Product Manager](https://boards.greenhouse.io/zupinnovation/jobs/4540869003)
 - [Pessoa Desenvolvedora Netsuite](https://boards.greenhouse.io/zupinnovation/jobs/4511404003)
 - [Analista de Recruitment Marketing](https://boards.greenhouse.io/zupinnovation/jobs/4530643003)
 - [Pessoa Desenvolvedora Backend Go Sênior](https://boards.greenhouse.io/zupinnovation/jobs/4449956003)
