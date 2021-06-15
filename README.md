@@ -49,6 +49,7 @@ Por que criamos tecnologia: https://www.youtube.com/watch?v=dncmhBEjko8
 ## Veja nossas oportunidades
 
 <!-- BLOG-POST-LIST:START -->
+- [Talent Developer NodeJS (Talent Acquisition)](https://boards.greenhouse.io/zupinnovation/jobs/4564215003)
 - [Tech Lead](https://boards.greenhouse.io/zupinnovation/jobs/4559676003)
 - [SRE Pleno](https://boards.greenhouse.io/zupinnovation/jobs/4552688003)
 - [Recruiting Sourcer](https://boards.greenhouse.io/zupinnovation/jobs/4387976003)
