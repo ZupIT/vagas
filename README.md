@@ -56,7 +56,6 @@ Por que criamos tecnologia: https://www.youtube.com/watch?v=dncmhBEjko8
 - [Tech Recruiter](https://boards.greenhouse.io/zupinnovation/jobs/4544869003)
 - [Pessoa Desenvolvedora Netsuite](https://boards.greenhouse.io/zupinnovation/jobs/4511404003)
 - [Analista de Recruitment Marketing](https://boards.greenhouse.io/zupinnovation/jobs/4530643003)
-- [Pessoa Desenvolvedora Backend Go Sênior](https://boards.greenhouse.io/zupinnovation/jobs/4449956003)
 - [Analista de Testes Automatizados Pleno - Exclusiva para Pessoa com Deficiência](https://boards.greenhouse.io/zupinnovation/jobs/4452644003)
 - [Analista de Testes Automatizados Sênior - Exclusiva para Pessoa com Deficiência](https://boards.greenhouse.io/zupinnovation/jobs/4452646003)
 - [Pessoa Desenvolvedora Back-end Java Pleno - Exclusiva para Pessoa com Deficiência](https://boards.greenhouse.io/zupinnovation/jobs/4452372003)
