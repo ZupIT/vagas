@@ -36,7 +36,7 @@ Por que criamos tecnologia: https://www.youtube.com/watch?v=dncmhBEjko8
 <div>
     <br>
     <p>
-    <a href="https://Beagle.io/"><img width="202" height="56" src="images/beagle.png" alt="Beagle"></a>
+    <a href="https://useBeagle.io/"><img width="202" height="56" src="images/beagle.png" alt="Beagle"></a>
     </p>
 </div>
 <div>
