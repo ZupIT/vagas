@@ -49,7 +49,7 @@ Por que criamos tecnologia: https://www.youtube.com/watch?v=dncmhBEjko8
 ## Veja nossas oportunidades
 
 <!-- BLOG-POST-LIST:START -->
-- [Tech Lead](https://boards.greenhouse.io/zupinnovation/jobs/4559676003)
+- [Pessoa Desenvolvedora Front-end Angular](https://boards.greenhouse.io/zupinnovation/jobs/4576298003)
 - [Pessoa Desenvolvedora Java Sênior](https://boards.greenhouse.io/zupinnovation/jobs/4569909003)
 - [QA Pleno](https://boards.greenhouse.io/zupinnovation/jobs/4569907003)
 - [Pessoa Desenvolvedora Java Pleno](https://boards.greenhouse.io/zupinnovation/jobs/4569884003)
