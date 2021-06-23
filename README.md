@@ -49,10 +49,10 @@ Por que criamos tecnologia: https://www.youtube.com/watch?v=dncmhBEjko8
 ## Veja nossas oportunidades
 
 <!-- BLOG-POST-LIST:START -->
+- [Desenvolvedor(a) Back-end Java](https://boards.greenhouse.io/zupinnovation/jobs/4578116003)
 - [Avaliador Tech](https://boards.greenhouse.io/zupinnovation/jobs/4577354003)
 - [Pessoa Desenvolvedora Back-end .NET Core](https://boards.greenhouse.io/zupinnovation/jobs/4577443003)
 - [Pessoa Desenvolvedora Front-end Angular](https://boards.greenhouse.io/zupinnovation/jobs/4576298003)
-- [Pessoa Desenvolvedora Java Pleno](https://boards.greenhouse.io/zupinnovation/jobs/4569884003)
 - [Desenvolvedor(a) Back-end Go](https://boards.greenhouse.io/zupinnovation/jobs/4567341003)
 - [Talent Developer NodeJS (Talent Acquisition)](https://boards.greenhouse.io/zupinnovation/jobs/4564215003)
 - [Recruiting Sourcer](https://boards.greenhouse.io/zupinnovation/jobs/4387976003)
