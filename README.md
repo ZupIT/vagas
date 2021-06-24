@@ -49,9 +49,9 @@ Por que criamos tecnologia: https://www.youtube.com/watch?v=dncmhBEjko8
 ## Veja nossas oportunidades
 
 <!-- BLOG-POST-LIST:START -->
+- [Talent Developer Partner](https://boards.greenhouse.io/zupinnovation/jobs/4577354003)
 - [Pessoa Desenvolvedora Backend Node JS](https://boards.greenhouse.io/zupinnovation/jobs/4578832003)
 - [Pessoa Desenvolvedora Java Pleno](https://boards.greenhouse.io/zupinnovation/jobs/4569884003)
-- [Talent Tech Partner](https://boards.greenhouse.io/zupinnovation/jobs/4577354003)
 - [Desenvolvedor(a) Back-end Java](https://boards.greenhouse.io/zupinnovation/jobs/4578116003)
 - [Pessoa Desenvolvedora Back-end .NET Core](https://boards.greenhouse.io/zupinnovation/jobs/4577443003)
 - [Pessoa Desenvolvedora Front-end Angular](https://boards.greenhouse.io/zupinnovation/jobs/4576298003)
