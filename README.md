@@ -49,8 +49,8 @@ Por que criamos tecnologia: https://www.youtube.com/watch?v=dncmhBEjko8
 ## Veja nossas oportunidades
 
 <!-- BLOG-POST-LIST:START -->
+- [DevSecOps - App Security](https://boards.greenhouse.io/zupinnovation/jobs/4596870003)
 - [Especialista de Employer Branding](https://boards.greenhouse.io/zupinnovation/jobs/4585418003)
-- [Application Security Analyst Sênior](https://boards.greenhouse.io/zupinnovation/jobs/4581417003)
 - [Desenvolvedor(a) Back-end Java Senior](https://boards.greenhouse.io/zupinnovation/jobs/4578116003)
 - [Pessoa Desenvolvedora Java Sênior](https://boards.greenhouse.io/zupinnovation/jobs/4569909003)
 - [Pessoa Desenvolvedora Frontend React Sênior](https://boards.greenhouse.io/zupinnovation/jobs/4519452003)
