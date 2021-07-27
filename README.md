@@ -49,10 +49,10 @@ Por que criamos tecnologia: https://www.youtube.com/watch?v=dncmhBEjko8
 ## Veja nossas oportunidades
 
 <!-- BLOG-POST-LIST:START -->
+- [Desenvolvedor(a) Especialista em Ruby](https://boards.greenhouse.io/zupinnovation/jobs/4637742003)
+- [Pessoa Desenvolvedora Full Stack Sênior](https://boards.greenhouse.io/zupinnovation/jobs/4637721003)
 - [Talent Acquisition Leader](https://boards.greenhouse.io/zupinnovation/jobs/4620491003)
-- [Especialista de Employer Branding](https://boards.greenhouse.io/zupinnovation/jobs/4585418003)
 - [Tech Sourcer - Executive Search](https://boards.greenhouse.io/zupinnovation/jobs/4625105003)
-- [Tech Lead](https://boards.greenhouse.io/zupinnovation/jobs/4624087003)
 - [Especialista Backend Java](https://boards.greenhouse.io/zupinnovation/jobs/4569909003)
 - [Desenvolvedor(a) Back-end Java Senior](https://boards.greenhouse.io/zupinnovation/jobs/4578116003)
 - [Tech Recruiter](https://boards.greenhouse.io/zupinnovation/jobs/4544869003)
