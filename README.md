@@ -49,8 +49,8 @@ Por que criamos tecnologia: https://www.youtube.com/watch?v=dncmhBEjko8
 ## Veja nossas oportunidades
 
 <!-- BLOG-POST-LIST:START -->
+- [Especialista Backend Java](https://boards.greenhouse.io/zupinnovation/jobs/4569909003)
 - [Desenvolvedor(a) Back-end Java/Kotlin](https://boards.greenhouse.io/zupinnovation/jobs/4640391003)
-- [Desenvolvedor(a) iOS Sr/Especialista](https://boards.greenhouse.io/zupinnovation/jobs/4640221003)
 - [Devops/SRE Pl/Sr](https://boards.greenhouse.io/zupinnovation/jobs/4640369003)
 - [Desenvolvedor(a) Especialista em Ruby](https://boards.greenhouse.io/zupinnovation/jobs/4637742003)
 - [Tech Sourcer - Executive Search](https://boards.greenhouse.io/zupinnovation/jobs/4625105003)
