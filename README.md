@@ -49,12 +49,12 @@ Por que criamos tecnologia: https://www.youtube.com/watch?v=dncmhBEjko8
 ## Veja nossas oportunidades
 
 <!-- BLOG-POST-LIST:START -->
+- [Pessoa Desenvolvedora Back-end Java Sênior/Especialista](https://boards.greenhouse.io/zupinnovation/jobs/4647959003)
+- [Pessoa Tech Lead Java](https://boards.greenhouse.io/zupinnovation/jobs/4653955003)
 - [Senior IT Recruiter](https://boards.greenhouse.io/zupinnovation/jobs/4649994003)
 - [Talent Acquisiton SR](https://boards.greenhouse.io/zupinnovation/jobs/4650657003)
 - [Analista ITSM / ServiceNow](https://boards.greenhouse.io/zupinnovation/jobs/4595342003)
 - [Desenvolvedor(a) Back-end Java/Kotlin - CharlesCD Open Source](https://boards.greenhouse.io/zupinnovation/jobs/4640391003)
-- [Desenvolvedor(a) Especialista em Ruby](https://boards.greenhouse.io/zupinnovation/jobs/4637742003)
-- [Tech Sourcer - Executive Search](https://boards.greenhouse.io/zupinnovation/jobs/4625105003)
 - [Desenvolvedor(a) Back-end Java Senior](https://boards.greenhouse.io/zupinnovation/jobs/4578116003)
 - [Analista de Testes Automatizados Pleno - Exclusiva para Pessoa com Deficiência](https://boards.greenhouse.io/zupinnovation/jobs/4452644003)
 - [Analista de Testes Automatizados Sênior | Especialista](https://boards.greenhouse.io/zupinnovation/jobs/4383422003)
