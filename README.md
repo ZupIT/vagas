@@ -49,6 +49,9 @@ Por que criamos tecnologia: https://www.youtube.com/watch?v=dncmhBEjko8
 ## Veja nossas oportunidades
 
 <!-- BLOG-POST-LIST:START -->
+- [Desenvolvedor(a) iOS Sr/Especialista](https://boards.greenhouse.io/zupinnovation/jobs/4648491003)
+- [Desenvolvedor(a) Java Sr/Espec.](https://boards.greenhouse.io/zupinnovation/jobs/4653197003)
+- [Devops/SRE - CharlesCD Open Source](https://boards.greenhouse.io/zupinnovation/jobs/4640369003)
 - [Desenvolvedor(a) Especialista em Ruby](https://boards.greenhouse.io/zupinnovation/jobs/4637742003)
 - [Desenvolvedor(a) Frontend Flutter Senior](https://boards.greenhouse.io/zupinnovation/jobs/4649455003)
 - [Desenvolvedor(a) Frontend React Senior](https://boards.greenhouse.io/zupinnovation/jobs/4649378003)
@@ -58,12 +61,9 @@ Por que criamos tecnologia: https://www.youtube.com/watch?v=dncmhBEjko8
 - [Pessoa Tech Lead Java](https://boards.greenhouse.io/zupinnovation/jobs/4653955003)
 - [Senior IT Recruiter](https://boards.greenhouse.io/zupinnovation/jobs/4649994003)
 - [Talent Acquisiton SR](https://boards.greenhouse.io/zupinnovation/jobs/4650657003)
-- [Analista ITSM / ServiceNow](https://boards.greenhouse.io/zupinnovation/jobs/4595342003)
 - [Desenvolvedor(a) Back-end Java/Kotlin - CharlesCD Open Source](https://boards.greenhouse.io/zupinnovation/jobs/4640391003)
 - [Desenvolvedor(a) Back-end Java Senior](https://boards.greenhouse.io/zupinnovation/jobs/4578116003)
-- [Analista de Testes Automatizados Pleno - Exclusiva para Pessoa com Deficiência](https://boards.greenhouse.io/zupinnovation/jobs/4452644003)
 - [Analista de Testes Automatizados Sênior | Especialista](https://boards.greenhouse.io/zupinnovation/jobs/4383422003)
-- [Analista de Testes Automatizados Sênior - Exclusiva para Pessoa com Deficiência](https://boards.greenhouse.io/zupinnovation/jobs/4452646003)
 - [DevOps || Site Reliability Engineer](https://boards.greenhouse.io/zupinnovation/jobs/4383442003)
 - [Pessoa Desenvolvedora Android](https://boards.greenhouse.io/zupinnovation/jobs/4383425003)
 - [Pessoa Desenvolvedora Back-end .NET Core](https://boards.greenhouse.io/zupinnovation/jobs/4577443003)
