@@ -49,6 +49,11 @@ Por que criamos tecnologia: https://www.youtube.com/watch?v=dncmhBEjko8
 ## Veja nossas oportunidades
 
 <!-- BLOG-POST-LIST:START -->
+- [Desenvolvedor(a) Especialista em Ruby](https://boards.greenhouse.io/zupinnovation/jobs/4637742003)
+- [Desenvolvedor(a) Frontend Flutter Senior](https://boards.greenhouse.io/zupinnovation/jobs/4649455003)
+- [Desenvolvedor(a) Frontend React Senior](https://boards.greenhouse.io/zupinnovation/jobs/4649378003)
+- [Desenvolvedor(a) Frontend React Sr/Especialista](https://boards.greenhouse.io/zupinnovation/jobs/4652152003)
+- [Desenvolvedor(a) Frontend Web Senior](https://boards.greenhouse.io/zupinnovation/jobs/4649394003)
 - [Pessoa Desenvolvedora Back-end Java Sênior/Especialista](https://boards.greenhouse.io/zupinnovation/jobs/4647959003)
 - [Pessoa Tech Lead Java](https://boards.greenhouse.io/zupinnovation/jobs/4653955003)
 - [Senior IT Recruiter](https://boards.greenhouse.io/zupinnovation/jobs/4649994003)
@@ -61,13 +66,8 @@ Por que criamos tecnologia: https://www.youtube.com/watch?v=dncmhBEjko8
 - [Analista de Testes Automatizados Sênior - Exclusiva para Pessoa com Deficiência](https://boards.greenhouse.io/zupinnovation/jobs/4452646003)
 - [DevOps || Site Reliability Engineer](https://boards.greenhouse.io/zupinnovation/jobs/4383442003)
 - [Pessoa Desenvolvedora Android](https://boards.greenhouse.io/zupinnovation/jobs/4383425003)
-- [Pessoa Desenvolvedora Back-end Java](https://boards.greenhouse.io/zupinnovation/jobs/4347905003)
-- [Pessoa Desenvolvedora Back-end Java Pleno - Exclusiva para Pessoa com Deficiência](https://boards.greenhouse.io/zupinnovation/jobs/4452372003)
-- [Pessoa Desenvolvedora Back-end Java Sênior/Especialista](https://boards.greenhouse.io/zupinnovation/jobs/4383431003)
-- [Pessoa Desenvolvedora Back-end Java Sênior - Exclusiva para Pessoa com Deficiêcia](https://boards.greenhouse.io/zupinnovation/jobs/4452385003)
 - [Pessoa Desenvolvedora Back-end .NET Core](https://boards.greenhouse.io/zupinnovation/jobs/4577443003)
 - [Pessoa Desenvolvedora iOS](https://boards.greenhouse.io/zupinnovation/jobs/4383438003)
-- [Tech Lead](https://boards.greenhouse.io/zupinnovation/jobs/4383447003)
 - [Desenvolvedor(a) Back-end Go](https://boards.greenhouse.io/zupinnovation/jobs/4567341003)
 <!-- BLOG-POST-LIST:END -->
 
