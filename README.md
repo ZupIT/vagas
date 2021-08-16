@@ -49,9 +49,9 @@ Por que criamos tecnologia: https://www.youtube.com/watch?v=dncmhBEjko8
 ## Veja nossas oportunidades
 
 <!-- BLOG-POST-LIST:START -->
+- [Desenvolvedor(a) Back-end Java Senior](https://boards.greenhouse.io/zupinnovation/jobs/4578116003)
 - [[POOL] Talentos Pretos](https://boards.greenhouse.io/zupinnovation/jobs/4668415003)
 - [Java Developer Senior](https://boards.greenhouse.io/zupinnovation/jobs/4648762003)
-- [Pessoa Desenvolvedora Backend Golang ou Java](https://boards.greenhouse.io/zupinnovation/jobs/4519484003)
 - [Devops/SRE Senior](https://boards.greenhouse.io/zupinnovation/jobs/4649432003)
 - [Especialista Backend Java](https://boards.greenhouse.io/zupinnovation/jobs/4569909003)
 - [Desenvolvedor(a) iOS Sr/Especialista](https://boards.greenhouse.io/zupinnovation/jobs/4648491003)
