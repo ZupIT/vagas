@@ -49,8 +49,8 @@ Por que criamos tecnologia: https://www.youtube.com/watch?v=dncmhBEjko8
 ## Veja nossas oportunidades
 
 <!-- BLOG-POST-LIST:START -->
+- [Analista Quality Assurance (QA) - Horusec Open Source](https://boards.greenhouse.io/zupinnovation/jobs/4671619003)
 - [Talent Acquisition SR](https://boards.greenhouse.io/zupinnovation/jobs/4650657003)
-- [Pessoa Desenvolvedora Backend Golang ou Java](https://boards.greenhouse.io/zupinnovation/jobs/4519484003)
 - [Desenvolvedor(a) Back-end Java Senior](https://boards.greenhouse.io/zupinnovation/jobs/4578116003)
 - [Java Developer Senior](https://boards.greenhouse.io/zupinnovation/jobs/4648762003)
 - [Devops/SRE Senior](https://boards.greenhouse.io/zupinnovation/jobs/4649432003)
