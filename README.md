@@ -49,13 +49,13 @@ Por que criamos tecnologia: https://www.youtube.com/watch?v=dncmhBEjko8
 ## Veja nossas oportunidades
 
 <!-- BLOG-POST-LIST:START -->
+- [Ux Designer Senior](https://boards.greenhouse.io/zupinnovation/jobs/4669938003)
 - [SRE](https://boards.greenhouse.io/zupinnovation/jobs/4664227003)
 - [Tech Lead Golang - RitchieCLI Open Source](https://boards.greenhouse.io/zupinnovation/jobs/4640604003)
 - [Pessoa Desenvolvedora Frontend React Sênior](https://boards.greenhouse.io/zupinnovation/jobs/4519452003)
 - [Java Developer Senior](https://boards.greenhouse.io/zupinnovation/jobs/4648762003)
 - [Especialista Backend Java](https://boards.greenhouse.io/zupinnovation/jobs/4569909003)
 - [Desenvolvedor(a) Back-end Java/Kotlin - CharlesCD Open Source](https://boards.greenhouse.io/zupinnovation/jobs/4640391003)
-- [Especialista em Desenvolvimento de Lideranças - Sênior](https://boards.greenhouse.io/zupinnovation/jobs/4676566003)
 - [Analista Quality Assurance (QA) - Horusec Open Source](https://boards.greenhouse.io/zupinnovation/jobs/4671619003)
 - [Talent Acquisition SR](https://boards.greenhouse.io/zupinnovation/jobs/4650657003)
 - [Devops/SRE Senior](https://boards.greenhouse.io/zupinnovation/jobs/4649432003)
