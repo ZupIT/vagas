@@ -49,9 +49,9 @@ Por que criamos tecnologia: https://www.youtube.com/watch?v=dncmhBEjko8
 ## Veja nossas oportunidades
 
 <!-- BLOG-POST-LIST:START -->
-- [Ux Designer Senior](https://boards.greenhouse.io/zupinnovation/jobs/4669938003)
+- [Especialista em Cloud - AWS [GCN - SecGov]](https://boards.greenhouse.io/zupinnovation/jobs/4693771003)
+- [Pessoa Desenvolvedora Backend Node](https://boards.greenhouse.io/zupinnovation/jobs/4693779003)
 - [SRE](https://boards.greenhouse.io/zupinnovation/jobs/4664227003)
-- [Tech Lead Golang - RitchieCLI Open Source](https://boards.greenhouse.io/zupinnovation/jobs/4640604003)
 - [Pessoa Desenvolvedora Frontend React Sênior](https://boards.greenhouse.io/zupinnovation/jobs/4519452003)
 - [Java Developer Senior](https://boards.greenhouse.io/zupinnovation/jobs/4648762003)
 - [Especialista Backend Java](https://boards.greenhouse.io/zupinnovation/jobs/4569909003)
