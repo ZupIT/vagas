@@ -49,6 +49,7 @@ Por que criamos tecnologia: https://www.youtube.com/watch?v=dncmhBEjko8
 ## Veja nossas oportunidades
 
 <!-- BLOG-POST-LIST:START -->
+- [Tech Lead Golang - RitchieCLI Open Source](https://boards.greenhouse.io/zupinnovation/jobs/4640604003)
 - [Especialista em Cloud - AWS [GCN - SecGov]](https://boards.greenhouse.io/zupinnovation/jobs/4693771003)
 - [Pessoa Desenvolvedora Backend Node](https://boards.greenhouse.io/zupinnovation/jobs/4693779003)
 - [SRE](https://boards.greenhouse.io/zupinnovation/jobs/4664227003)
@@ -57,7 +58,6 @@ Por que criamos tecnologia: https://www.youtube.com/watch?v=dncmhBEjko8
 - [Especialista Backend Java](https://boards.greenhouse.io/zupinnovation/jobs/4569909003)
 - [Desenvolvedor(a) Back-end Java/Kotlin - CharlesCD Open Source](https://boards.greenhouse.io/zupinnovation/jobs/4640391003)
 - [Analista Quality Assurance (QA) - Horusec Open Source](https://boards.greenhouse.io/zupinnovation/jobs/4671619003)
-- [Talent Acquisition SR](https://boards.greenhouse.io/zupinnovation/jobs/4650657003)
 - [Devops/SRE Senior](https://boards.greenhouse.io/zupinnovation/jobs/4649432003)
 - [Desenvolvedor(a) iOS Sr/Especialista](https://boards.greenhouse.io/zupinnovation/jobs/4648491003)
 - [Desenvolvedor(a) Frontend Flutter Senior](https://boards.greenhouse.io/zupinnovation/jobs/4649455003)
