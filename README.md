@@ -49,8 +49,8 @@ Por que criamos tecnologia: https://www.youtube.com/watch?v=dncmhBEjko8
 ## Veja nossas oportunidades
 
 <!-- BLOG-POST-LIST:START -->
+- [Backend Especialista em Analise de Eventos](https://boards.greenhouse.io/zupinnovation/jobs/4703786003)
 - [Desenvolvedor(a) Frontend React Pleno](https://boards.greenhouse.io/zupinnovation/jobs/4704460003)
-- [Pessoa Desenvolvedora Frontend React Sênior](https://boards.greenhouse.io/zupinnovation/jobs/4519452003)
 - [Analista ITSM / ServiceNow](https://boards.greenhouse.io/zupinnovation/jobs/4595342003)
 - [Analista Quality Assurance (QA) - Ritchie CLI Open Source](https://boards.greenhouse.io/zupinnovation/jobs/4699965003)
 - [Dev. Backend Go Senior - Ritchie CLI Open Source](https://boards.greenhouse.io/zupinnovation/jobs/4699985003)
