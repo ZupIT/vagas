@@ -49,6 +49,7 @@ Por que criamos tecnologia: https://www.youtube.com/watch?v=dncmhBEjko8
 ## Veja nossas oportunidades
 
 <!-- BLOG-POST-LIST:START -->
+- [Analista Sênior de Quality Assurance (QA)](https://boards.greenhouse.io/zupinnovation/jobs/4704094003)
 - [Backend Especialista em Analise de Eventos](https://boards.greenhouse.io/zupinnovation/jobs/4703786003)
 - [Desenvolvedor(a) Frontend React Pleno](https://boards.greenhouse.io/zupinnovation/jobs/4704460003)
 - [Analista ITSM / ServiceNow](https://boards.greenhouse.io/zupinnovation/jobs/4595342003)
@@ -57,7 +58,6 @@ Por que criamos tecnologia: https://www.youtube.com/watch?v=dncmhBEjko8
 - [Devops/SRE Senior - Ritchie CLI Open Source](https://boards.greenhouse.io/zupinnovation/jobs/4699182003)
 - [Pessoa Desenvolvedora Backend Node](https://boards.greenhouse.io/zupinnovation/jobs/4693779003)
 - [Java Developer Senior](https://boards.greenhouse.io/zupinnovation/jobs/4648762003)
-- [Desenvolvedor(a) Back-end Java/Kotlin - CharlesCD Open Source](https://boards.greenhouse.io/zupinnovation/jobs/4640391003)
 - [Devops/SRE Senior](https://boards.greenhouse.io/zupinnovation/jobs/4649432003)
 - [Desenvolvedor(a) iOS Sr/Especialista](https://boards.greenhouse.io/zupinnovation/jobs/4648491003)
 - [Desenvolvedor(a) Frontend Flutter Senior](https://boards.greenhouse.io/zupinnovation/jobs/4649455003)
