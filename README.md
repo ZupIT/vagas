@@ -49,7 +49,7 @@ Por que criamos tecnologia: https://www.youtube.com/watch?v=dncmhBEjko8
 ## Veja nossas oportunidades
 
 <!-- BLOG-POST-LIST:START -->
-- [Pessoa Desenvolvedora Backend Node](https://boards.greenhouse.io/zupinnovation/jobs/4693779003)
+- [Dev. Backend Java/Kotlin Senior](https://boards.greenhouse.io/zupinnovation/jobs/4713280003)
 - [Data Analyst | People Analytics](https://boards.greenhouse.io/zupinnovation/jobs/4710347003)
 - [Analista Sênior de Quality Assurance (QA)](https://boards.greenhouse.io/zupinnovation/jobs/4704094003)
 - [Desenvolvedor(a) Frontend React Pleno](https://boards.greenhouse.io/zupinnovation/jobs/4704460003)
