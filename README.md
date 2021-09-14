@@ -49,6 +49,9 @@ Por que criamos tecnologia: https://www.youtube.com/watch?v=dncmhBEjko8
 ## Veja nossas oportunidades
 
 <!-- BLOG-POST-LIST:START -->
+- [Pessoa Desenvolvedora Android](https://boards.greenhouse.io/zupinnovation/jobs/4714376003)
+- [Pessoa Desenvolvedora iOS](https://boards.greenhouse.io/zupinnovation/jobs/4714324003)
+- [Desenvolver(a) IOS - Beagle Open Source](https://boards.greenhouse.io/zupinnovation/jobs/4709031003)
 - [Dev. Backend Java/Kotlin Senior](https://boards.greenhouse.io/zupinnovation/jobs/4713280003)
 - [Data Analyst | People Analytics](https://boards.greenhouse.io/zupinnovation/jobs/4710347003)
 - [Analista Sênior de Quality Assurance (QA)](https://boards.greenhouse.io/zupinnovation/jobs/4704094003)
@@ -56,9 +59,6 @@ Por que criamos tecnologia: https://www.youtube.com/watch?v=dncmhBEjko8
 - [Analista ITSM / ServiceNow](https://boards.greenhouse.io/zupinnovation/jobs/4595342003)
 - [Analista Quality Assurance (QA) - Ritchie CLI Open Source](https://boards.greenhouse.io/zupinnovation/jobs/4699965003)
 - [Dev. Backend Go Senior - Ritchie CLI Open Source](https://boards.greenhouse.io/zupinnovation/jobs/4699985003)
-- [Devops/SRE Senior - Ritchie CLI Open Source](https://boards.greenhouse.io/zupinnovation/jobs/4699182003)
-- [Java Developer Senior](https://boards.greenhouse.io/zupinnovation/jobs/4648762003)
-- [Devops/SRE Senior](https://boards.greenhouse.io/zupinnovation/jobs/4649432003)
 - [Desenvolvedor(a) iOS Sr/Especialista](https://boards.greenhouse.io/zupinnovation/jobs/4648491003)
 - [Desenvolvedor(a) Frontend Flutter Senior](https://boards.greenhouse.io/zupinnovation/jobs/4649455003)
 - [Desenvolvedor(a) Frontend React Senior](https://boards.greenhouse.io/zupinnovation/jobs/4649378003)
