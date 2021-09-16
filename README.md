@@ -49,26 +49,20 @@ Por que criamos tecnologia: https://www.youtube.com/watch?v=dncmhBEjko8
 ## Veja nossas oportunidades
 
 <!-- BLOG-POST-LIST:START -->
+- [Pessoa Desenvolvedora Android](https://boards.greenhouse.io/zupinnovation/jobs/4383425003)
+- [Pessoa Desenvolvedora iOS](https://boards.greenhouse.io/zupinnovation/jobs/4383438003)
+- [Desenvolvedor(a) Netsuite](https://boards.greenhouse.io/zupinnovation/jobs/4705601003)
 - [Pessoa Desenvolvedora Android](https://boards.greenhouse.io/zupinnovation/jobs/4714376003)
 - [Pessoa Desenvolvedora iOS](https://boards.greenhouse.io/zupinnovation/jobs/4714324003)
-- [Desenvolver(a) IOS - Beagle Open Source](https://boards.greenhouse.io/zupinnovation/jobs/4709031003)
-- [Dev. Backend Java/Kotlin Senior](https://boards.greenhouse.io/zupinnovation/jobs/4713280003)
 - [Data Analyst | People Analytics](https://boards.greenhouse.io/zupinnovation/jobs/4710347003)
-- [Analista Sênior de Quality Assurance (QA)](https://boards.greenhouse.io/zupinnovation/jobs/4704094003)
 - [Desenvolvedor(a) Frontend React Pleno](https://boards.greenhouse.io/zupinnovation/jobs/4704460003)
 - [Analista ITSM / ServiceNow](https://boards.greenhouse.io/zupinnovation/jobs/4595342003)
-- [Analista Quality Assurance (QA) - Ritchie CLI Open Source](https://boards.greenhouse.io/zupinnovation/jobs/4699965003)
-- [Dev. Backend Go Senior - Ritchie CLI Open Source](https://boards.greenhouse.io/zupinnovation/jobs/4699985003)
-- [Desenvolvedor(a) iOS Sr/Especialista](https://boards.greenhouse.io/zupinnovation/jobs/4648491003)
-- [Desenvolvedor(a) Frontend Flutter Senior](https://boards.greenhouse.io/zupinnovation/jobs/4649455003)
-- [Desenvolvedor(a) Frontend React Senior](https://boards.greenhouse.io/zupinnovation/jobs/4649378003)
 - [Pessoa Desenvolvedora Back-end Java Sênior/Especialista](https://boards.greenhouse.io/zupinnovation/jobs/4647959003)
 - [Pessoa Tech Lead Java](https://boards.greenhouse.io/zupinnovation/jobs/4653955003)
 - [Senior IT Recruiter](https://boards.greenhouse.io/zupinnovation/jobs/4649994003)
 - [Analista de Testes Automatizados Sênior | Especialista](https://boards.greenhouse.io/zupinnovation/jobs/4383422003)
 - [DevOps || Site Reliability Engineer](https://boards.greenhouse.io/zupinnovation/jobs/4383442003)
 - [Pessoa Desenvolvedora Back-end .NET Core](https://boards.greenhouse.io/zupinnovation/jobs/4577443003)
-- [Desenvolvedor(a) Back-end Go](https://boards.greenhouse.io/zupinnovation/jobs/4567341003)
 <!-- BLOG-POST-LIST:END -->
 
 
