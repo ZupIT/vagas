@@ -49,6 +49,7 @@ Por que criamos tecnologia: https://www.youtube.com/watch?v=dncmhBEjko8
 ## Veja nossas oportunidades
 
 <!-- BLOG-POST-LIST:START -->
+- [Pessoa Desenvolvedora IOS Pleno/Sênior](https://boards.greenhouse.io/zupinnovation/jobs/4724596003)
 - [Pessoa Desenvolvedora Android](https://boards.greenhouse.io/zupinnovation/jobs/4721295003)
 - [Security Engineer - Blue Team](https://boards.greenhouse.io/zupinnovation/jobs/4444176003)
 - [Pessoa Desenvolvedora Android](https://boards.greenhouse.io/zupinnovation/jobs/4383425003)
