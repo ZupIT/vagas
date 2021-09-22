@@ -49,14 +49,12 @@ Por que criamos tecnologia: https://www.youtube.com/watch?v=dncmhBEjko8
 ## Veja nossas oportunidades
 
 <!-- BLOG-POST-LIST:START -->
+- [Data & Analytics - Lead](https://boards.greenhouse.io/zupinnovation/jobs/4725951003)
 - [Pessoa Desenvolvedora IOS Pleno/Sênior](https://boards.greenhouse.io/zupinnovation/jobs/4724596003)
 - [Pessoa Desenvolvedora Android](https://boards.greenhouse.io/zupinnovation/jobs/4721295003)
 - [Security Engineer - Blue Team](https://boards.greenhouse.io/zupinnovation/jobs/4444176003)
 - [Pessoa Desenvolvedora Android](https://boards.greenhouse.io/zupinnovation/jobs/4383425003)
-- [Pessoa Desenvolvedora iOS](https://boards.greenhouse.io/zupinnovation/jobs/4383438003)
 - [Desenvolvedor(a) Netsuite](https://boards.greenhouse.io/zupinnovation/jobs/4705601003)
-- [Pessoa Desenvolvedora iOS](https://boards.greenhouse.io/zupinnovation/jobs/4714324003)
-- [Data Analyst | People Analytics](https://boards.greenhouse.io/zupinnovation/jobs/4710347003)
 - [Analista ITSM / ServiceNow](https://boards.greenhouse.io/zupinnovation/jobs/4595342003)
 - [Pessoa Desenvolvedora Back-end Java Sênior/Especialista](https://boards.greenhouse.io/zupinnovation/jobs/4647959003)
 - [Pessoa Tech Lead Java](https://boards.greenhouse.io/zupinnovation/jobs/4653955003)
