@@ -49,6 +49,7 @@ Por que criamos tecnologia: https://www.youtube.com/watch?v=dncmhBEjko8
 ## Veja nossas oportunidades
 
 <!-- BLOG-POST-LIST:START -->
+- [Accounting Leader](https://boards.greenhouse.io/zupinnovation/jobs/4730036003)
 - [Analista e-NPS e Projetos | Pleno](https://boards.greenhouse.io/zupinnovation/jobs/4729902003)
 - [Pessoa Analista de Dados](https://boards.greenhouse.io/zupinnovation/jobs/4728657003)
 - [Pessoa Cientista de Dados](https://boards.greenhouse.io/zupinnovation/jobs/4728609003)
