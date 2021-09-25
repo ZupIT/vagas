@@ -63,7 +63,6 @@ Por que criamos tecnologia: https://www.youtube.com/watch?v=dncmhBEjko8
 - [Analista ITSM / ServiceNow](https://boards.greenhouse.io/zupinnovation/jobs/4595342003)
 - [Pessoa Desenvolvedora Back-end Java Sênior/Especialista](https://boards.greenhouse.io/zupinnovation/jobs/4647959003)
 - [Pessoa Tech Lead Java](https://boards.greenhouse.io/zupinnovation/jobs/4653955003)
-- [Senior IT Recruiter](https://boards.greenhouse.io/zupinnovation/jobs/4649994003)
 - [Analista de Testes Automatizados Sênior | Especialista](https://boards.greenhouse.io/zupinnovation/jobs/4383422003)
 - [DevOps || Site Reliability Engineer](https://boards.greenhouse.io/zupinnovation/jobs/4383442003)
 - [Pessoa Desenvolvedora Back-end .NET Core](https://boards.greenhouse.io/zupinnovation/jobs/4577443003)
