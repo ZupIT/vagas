@@ -49,6 +49,8 @@ Por que criamos tecnologia: https://www.youtube.com/watch?v=dncmhBEjko8
 ## Veja nossas oportunidades
 
 <!-- BLOG-POST-LIST:START -->
+- [Learning & Development Specialist](https://boards.greenhouse.io/zupinnovation/jobs/4676566003)
+- [Talent Acquisition Partner](https://boards.greenhouse.io/zupinnovation/jobs/4649994003)
 - [Analista e-NPS e Projetos](https://boards.greenhouse.io/zupinnovation/jobs/4729902003)
 - [Accounting Leader](https://boards.greenhouse.io/zupinnovation/jobs/4730036003)
 - [Pessoa Analista de Dados](https://boards.greenhouse.io/zupinnovation/jobs/4728657003)
