@@ -53,7 +53,6 @@ Por que criamos tecnologia: https://www.youtube.com/watch?v=dncmhBEjko8
 - [Pessoa Tech Lead Java - AFIRMATIVA E EXCLUSIVA PARA PESSOAS NEGRAS](https://boards.greenhouse.io/zupinnovation/jobs/4726742003)
 - [Learning & Development Specialist](https://boards.greenhouse.io/zupinnovation/jobs/4676566003)
 - [Talent Acquisition Partner](https://boards.greenhouse.io/zupinnovation/jobs/4649994003)
-- [Analista e-NPS e Projetos](https://boards.greenhouse.io/zupinnovation/jobs/4729902003)
 - [Pessoa Analista de Dados](https://boards.greenhouse.io/zupinnovation/jobs/4728657003)
 - [Pessoa Cientista de Dados](https://boards.greenhouse.io/zupinnovation/jobs/4728609003)
 - [Pessoa Engenheira de Dados](https://boards.greenhouse.io/zupinnovation/jobs/4728589003)
