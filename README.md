@@ -49,6 +49,7 @@ Por que criamos tecnologia: https://www.youtube.com/watch?v=dncmhBEjko8
 ## Veja nossas oportunidades
 
 <!-- BLOG-POST-LIST:START -->
+- [Analista de Comunicação | Pleno](https://boards.greenhouse.io/zupinnovation/jobs/4753242003)
 - [Consultor Funcional NetSuite | Oracle](https://boards.greenhouse.io/zupinnovation/jobs/4705601003)
 - [Pessoa Desenvolvedora Back-end Java Sênior - AFIRMATIVA E EXCLUSIVA PARA PESSOAS NEGRAS](https://boards.greenhouse.io/zupinnovation/jobs/4726440003)
 - [Pessoa Tech Lead Java - AFIRMATIVA E EXCLUSIVA PARA PESSOAS NEGRAS](https://boards.greenhouse.io/zupinnovation/jobs/4726742003)
