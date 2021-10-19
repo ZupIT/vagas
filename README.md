@@ -49,10 +49,12 @@ Por que criamos tecnologia: https://www.youtube.com/watch?v=dncmhBEjko8
 ## Veja nossas oportunidades
 
 <!-- BLOG-POST-LIST:START -->
+- [Desenvolvedor IOS Sênior](https://boards.greenhouse.io/zupinnovation/jobs/4769513003)
+- [Pessoa Desenvolvedora Android Sênior](https://boards.greenhouse.io/zupinnovation/jobs/4769500003)
+- [Tech Lead Java/Kotlin](https://boards.greenhouse.io/zupinnovation/jobs/4769484003)
 - [Data & Analytics - Leader](https://boards.greenhouse.io/zupinnovation/jobs/4725951003)
 - [Technical Writer](https://boards.greenhouse.io/zupinnovation/jobs/4766046003)
 - [Pessoa Desenvolvedora Android Sênior/Especialista](https://boards.greenhouse.io/zupinnovation/jobs/4752209003)
-- [Data Scientist | Machine Learning](https://boards.greenhouse.io/zupinnovation/jobs/4759399003)
 - [Consultor Funcional NetSuite | Oracle](https://boards.greenhouse.io/zupinnovation/jobs/4705601003)
 - [Pessoa Desenvolvedora Back-end Java Sênior - AFIRMATIVA E EXCLUSIVA PARA PESSOAS NEGRAS](https://boards.greenhouse.io/zupinnovation/jobs/4726440003)
 - [Pessoa Tech Lead Java - AFIRMATIVA E EXCLUSIVA PARA PESSOAS NEGRAS](https://boards.greenhouse.io/zupinnovation/jobs/4726742003)
@@ -63,7 +65,6 @@ Por que criamos tecnologia: https://www.youtube.com/watch?v=dncmhBEjko8
 - [Pessoa Engenheira de Machine Learning](https://boards.greenhouse.io/zupinnovation/jobs/4728623003)
 - [Pessoa Desenvolvedora IOS Pleno/Sênior](https://boards.greenhouse.io/zupinnovation/jobs/4724596003)
 - [Pessoa Desenvolvedora Android](https://boards.greenhouse.io/zupinnovation/jobs/4721295003)
-- [Security Engineer - Blue Team](https://boards.greenhouse.io/zupinnovation/jobs/4444176003)
 - [Pessoa Desenvolvedora Back-end Java Sênior/Especialista](https://boards.greenhouse.io/zupinnovation/jobs/4647959003)
 - [Pessoa Tech Lead Java](https://boards.greenhouse.io/zupinnovation/jobs/4653955003)
 - [Analista de Testes Automatizados Sênior | Especialista](https://boards.greenhouse.io/zupinnovation/jobs/4383422003)
