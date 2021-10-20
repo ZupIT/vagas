@@ -49,11 +49,11 @@ Por que criamos tecnologia: https://www.youtube.com/watch?v=dncmhBEjko8
 ## Veja nossas oportunidades
 
 <!-- BLOG-POST-LIST:START -->
+- [Pessoa Desenvolvedora Backend Java/Kotlin - Sênior](https://boards.greenhouse.io/zupinnovation/jobs/4771661003)
+- [Solutions Architect Lead](https://boards.greenhouse.io/zupinnovation/jobs/4772037003)
 - [Desenvolvedor IOS Sênior](https://boards.greenhouse.io/zupinnovation/jobs/4769513003)
 - [Pessoa Desenvolvedora Android Sênior](https://boards.greenhouse.io/zupinnovation/jobs/4769500003)
 - [Tech Lead Java/Kotlin](https://boards.greenhouse.io/zupinnovation/jobs/4769484003)
-- [Data & Analytics - Leader](https://boards.greenhouse.io/zupinnovation/jobs/4725951003)
-- [Technical Writer](https://boards.greenhouse.io/zupinnovation/jobs/4766046003)
 - [Pessoa Desenvolvedora Android Sênior/Especialista](https://boards.greenhouse.io/zupinnovation/jobs/4752209003)
 - [Consultor Funcional NetSuite | Oracle](https://boards.greenhouse.io/zupinnovation/jobs/4705601003)
 - [Pessoa Desenvolvedora Back-end Java Sênior - AFIRMATIVA E EXCLUSIVA PARA PESSOAS NEGRAS](https://boards.greenhouse.io/zupinnovation/jobs/4726440003)
