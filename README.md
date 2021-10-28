@@ -49,8 +49,8 @@ Por que criamos tecnologia: https://www.youtube.com/watch?v=dncmhBEjko8
 ## Veja nossas oportunidades
 
 <!-- BLOG-POST-LIST:START -->
+- [Data & Analytics - Leader](https://boards.greenhouse.io/zupinnovation/jobs/4725951003)
 - [Consultor Funcional NetSuite | Oracle](https://boards.greenhouse.io/zupinnovation/jobs/4705601003)
-- [Pessoa Tech Lead Java](https://boards.greenhouse.io/zupinnovation/jobs/4737180003)
 - [Pessoa Desenvolvedora Backend Java/Kotlin - Sênior](https://boards.greenhouse.io/zupinnovation/jobs/4771661003)
 - [Solutions Architect Lead](https://boards.greenhouse.io/zupinnovation/jobs/4772037003)
 - [Desenvolvedor IOS Sênior](https://boards.greenhouse.io/zupinnovation/jobs/4769513003)
