@@ -49,7 +49,7 @@ Por que criamos tecnologia: https://www.youtube.com/watch?v=dncmhBEjko8
 ## Veja nossas oportunidades
 
 <!-- BLOG-POST-LIST:START -->
-- [Data Scientist | Machine Learning](https://boards.greenhouse.io/zupinnovation/jobs/4759399003)
+- [Tech Lead Mobile IOS - Beagle Open Source](https://boards.greenhouse.io/zupinnovation/jobs/4790753003)
 - [Data & Analytics - Leader](https://boards.greenhouse.io/zupinnovation/jobs/4725951003)
 - [Consultor Funcional NetSuite | Oracle](https://boards.greenhouse.io/zupinnovation/jobs/4705601003)
 - [Pessoa Desenvolvedora Backend Java/Kotlin - Sênior](https://boards.greenhouse.io/zupinnovation/jobs/4771661003)
