@@ -49,6 +49,7 @@ Por que criamos tecnologia: https://www.youtube.com/watch?v=dncmhBEjko8
 ## Veja nossas oportunidades
 
 <!-- BLOG-POST-LIST:START -->
+- [Data & Analytics - Leader](https://boards.greenhouse.io/zupinnovation/jobs/4725951003)
 - [Tech Writer](https://boards.greenhouse.io/zupinnovation/jobs/4792278003)
 - [Tech Lead Mobile IOS - Beagle Open Source](https://boards.greenhouse.io/zupinnovation/jobs/4790753003)
 - [Consultor Funcional NetSuite | Oracle](https://boards.greenhouse.io/zupinnovation/jobs/4705601003)
@@ -58,7 +59,6 @@ Por que criamos tecnologia: https://www.youtube.com/watch?v=dncmhBEjko8
 - [Pessoa Desenvolvedora Android Sênior](https://boards.greenhouse.io/zupinnovation/jobs/4769500003)
 - [Tech Lead Java/Kotlin](https://boards.greenhouse.io/zupinnovation/jobs/4769484003)
 - [Pessoa Desenvolvedora Android Sênior/Especialista](https://boards.greenhouse.io/zupinnovation/jobs/4752209003)
-- [Pessoa Desenvolvedora Back-end Java Sênior - AFIRMATIVA E EXCLUSIVA PARA PESSOAS NEGRAS](https://boards.greenhouse.io/zupinnovation/jobs/4726440003)
 - [Pessoa Tech Lead Java - AFIRMATIVA E EXCLUSIVA PARA PESSOAS NEGRAS](https://boards.greenhouse.io/zupinnovation/jobs/4726742003)
 - [Pessoa Analista de Dados](https://boards.greenhouse.io/zupinnovation/jobs/4728657003)
 - [Pessoa Cientista de Dados](https://boards.greenhouse.io/zupinnovation/jobs/4728609003)
