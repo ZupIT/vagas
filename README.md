@@ -49,7 +49,7 @@ Por que criamos tecnologia: https://www.youtube.com/watch?v=dncmhBEjko8
 ## Veja nossas oportunidades
 
 <!-- BLOG-POST-LIST:START -->
-- [Data & Analytics - Leader](https://boards.greenhouse.io/zupinnovation/jobs/4725951003)
+- [Pessoa desenvolvedora .NET Core Sênior](https://boards.greenhouse.io/zupinnovation/jobs/4799284003)
 - [Tech Writer](https://boards.greenhouse.io/zupinnovation/jobs/4792278003)
 - [Tech Lead Mobile IOS - Beagle Open Source](https://boards.greenhouse.io/zupinnovation/jobs/4790753003)
 - [Consultor Funcional NetSuite | Oracle](https://boards.greenhouse.io/zupinnovation/jobs/4705601003)
