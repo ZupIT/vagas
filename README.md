@@ -49,10 +49,10 @@ Por que criamos tecnologia: https://www.youtube.com/watch?v=dncmhBEjko8
 ## Veja nossas oportunidades
 
 <!-- BLOG-POST-LIST:START -->
+- [Pessoa Desenvolvedora Backend .NET - Sênior/Especialista](https://boards.greenhouse.io/zupinnovation/jobs/4818038003)
 - [Pessoa Desenvolvedora Back End Node](https://boards.greenhouse.io/zupinnovation/jobs/4813249003)
 - [Pessoa Engenheira de Dados](https://boards.greenhouse.io/zupinnovation/jobs/4810860003)
 - [Aceleração Acadêmica Sênior](https://boards.greenhouse.io/zupinnovation/jobs/4807006003)
-- [Analista de Application Security - DevSecOps](https://boards.greenhouse.io/zupinnovation/jobs/4801534003)
 - [Data &amp; Analytics - Leader](https://boards.greenhouse.io/zupinnovation/jobs/4725951003)
 - [Tech Writer](https://boards.greenhouse.io/zupinnovation/jobs/4792278003)
 - [Consultor Funcional NetSuite | Oracle](https://boards.greenhouse.io/zupinnovation/jobs/4705601003)
