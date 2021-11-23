@@ -49,6 +49,7 @@ Por que criamos tecnologia: https://www.youtube.com/watch?v=dncmhBEjko8
 ## Veja nossas oportunidades
 
 <!-- BLOG-POST-LIST:START -->
+- [Aceleração Acadêmica Sênior](https://boards.greenhouse.io/zupinnovation/jobs/4807006003)
 - [Career &amp; Rewards Analyst](https://boards.greenhouse.io/zupinnovation/jobs/4819939003)
 - [Pessoa Desenvolvedora Backend .NET - Sênior/Especialista](https://boards.greenhouse.io/zupinnovation/jobs/4818038003)
 - [Pessoa Desenvolvedora Back End Node](https://boards.greenhouse.io/zupinnovation/jobs/4813249003)
@@ -60,7 +61,6 @@ Por que criamos tecnologia: https://www.youtube.com/watch?v=dncmhBEjko8
 - [Desenvolvedor IOS Sênior](https://boards.greenhouse.io/zupinnovation/jobs/4769513003)
 - [Pessoa Desenvolvedora Android Sênior](https://boards.greenhouse.io/zupinnovation/jobs/4769500003)
 - [Tech Lead Java/Kotlin](https://boards.greenhouse.io/zupinnovation/jobs/4769484003)
-- [Pessoa Desenvolvedora Android Sênior/Especialista](https://boards.greenhouse.io/zupinnovation/jobs/4752209003)
 - [Pessoa Tech Lead Java - AFIRMATIVA E EXCLUSIVA PARA PESSOAS NEGRAS](https://boards.greenhouse.io/zupinnovation/jobs/4726742003)
 - [Pessoa Engenheira de Dados](https://boards.greenhouse.io/zupinnovation/jobs/4728589003)
 - [Pessoa Engenheira de Machine Learning](https://boards.greenhouse.io/zupinnovation/jobs/4728623003)
