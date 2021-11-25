@@ -49,14 +49,14 @@ Por que criamos tecnologia: https://www.youtube.com/watch?v=dncmhBEjko8
 ## Veja nossas oportunidades
 
 <!-- BLOG-POST-LIST:START -->
+- [Pessoa Desenvolvedora Backend Typescript - Sênior/Especialista](https://boards.greenhouse.io/zupinnovation/jobs/4832475003)
+- [SRE Sênior](https://boards.greenhouse.io/zupinnovation/jobs/4832486003)
 - [Devops/SRE - CharlesCD Open Source](https://boards.greenhouse.io/zupinnovation/jobs/4831279003)
 - [Pessoa desenvolvedora .NET Core Sênior](https://boards.greenhouse.io/zupinnovation/jobs/4799284003)
 - [Career &amp; Rewards Analyst](https://boards.greenhouse.io/zupinnovation/jobs/4819939003)
 - [Pessoa Desenvolvedora Backend .NET - Sênior/Especialista](https://boards.greenhouse.io/zupinnovation/jobs/4818038003)
 - [Pessoa Desenvolvedora Back End Node](https://boards.greenhouse.io/zupinnovation/jobs/4813249003)
 - [Pessoa Engenheira de Dados](https://boards.greenhouse.io/zupinnovation/jobs/4810860003)
-- [Tech Writer](https://boards.greenhouse.io/zupinnovation/jobs/4792278003)
-- [Consultor Funcional NetSuite | Oracle](https://boards.greenhouse.io/zupinnovation/jobs/4705601003)
 - [Pessoa Desenvolvedora Backend Java/Kotlin - Sênior](https://boards.greenhouse.io/zupinnovation/jobs/4771661003)
 - [Desenvolvedor IOS Sênior](https://boards.greenhouse.io/zupinnovation/jobs/4769513003)
 - [Pessoa Desenvolvedora Android Sênior](https://boards.greenhouse.io/zupinnovation/jobs/4769500003)
