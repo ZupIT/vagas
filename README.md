@@ -49,10 +49,10 @@ Por que criamos tecnologia: https://www.youtube.com/watch?v=dncmhBEjko8
 ## Veja nossas oportunidades
 
 <!-- BLOG-POST-LIST:START -->
+- [Pessoa Desenvolvedora .NET Core - Sênior](https://boards.greenhouse.io/zupinnovation/jobs/4799284003)
 - [Pessoa Desenvolvedora Backend Typescript - Sênior/Especialista](https://boards.greenhouse.io/zupinnovation/jobs/4832475003)
 - [SRE Sênior](https://boards.greenhouse.io/zupinnovation/jobs/4832486003)
 - [Devops/SRE - CharlesCD Open Source](https://boards.greenhouse.io/zupinnovation/jobs/4831279003)
-- [Pessoa desenvolvedora .NET Core Sênior](https://boards.greenhouse.io/zupinnovation/jobs/4799284003)
 - [Career &amp; Rewards Analyst](https://boards.greenhouse.io/zupinnovation/jobs/4819939003)
 - [Pessoa Desenvolvedora Backend .NET - Sênior/Especialista](https://boards.greenhouse.io/zupinnovation/jobs/4818038003)
 - [Pessoa Desenvolvedora Back End Node](https://boards.greenhouse.io/zupinnovation/jobs/4813249003)
