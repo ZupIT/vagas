@@ -49,10 +49,11 @@ Por que criamos tecnologia: https://www.youtube.com/watch?v=dncmhBEjko8
 ## Veja nossas oportunidades
 
 <!-- BLOG-POST-LIST:START -->
+- [Pessoa Desenvolvedora Python | Especialista](https://boards.greenhouse.io/zupinnovation/jobs/4867989003)
+- [Pessoa Desenvolvedora Severless | Senior/Especialista](https://boards.greenhouse.io/zupinnovation/jobs/4867887003)
 - [Pessoa Arquiteta de Soluções | Senior/Especialista](https://boards.greenhouse.io/zupinnovation/jobs/4867762003)
 - [Pessoa Desenvolvedora .Net | Senior/Especialista](https://boards.greenhouse.io/zupinnovation/jobs/4867836003)
 - [Customer Experience Pleno/Sênior](https://boards.greenhouse.io/zupinnovation/jobs/4858768003)
-- [Pessoa Tech Lead Java](https://boards.greenhouse.io/zupinnovation/jobs/4653955003)
 - [Pessoa Desenvolvedora Android Sênior/Especialista](https://boards.greenhouse.io/zupinnovation/jobs/4752209003)
 - [Pessoa Desenvolvedora .NET Core - Sênior](https://boards.greenhouse.io/zupinnovation/jobs/4799284003)
 - [Pessoa Desenvolvedora Backend Typescript - Sênior/Especialista](https://boards.greenhouse.io/zupinnovation/jobs/4832475003)
@@ -65,7 +66,6 @@ Por que criamos tecnologia: https://www.youtube.com/watch?v=dncmhBEjko8
 - [Pessoa Desenvolvedora Backend Java/Kotlin - Sênior](https://boards.greenhouse.io/zupinnovation/jobs/4771661003)
 - [Desenvolvedor IOS Sênior](https://boards.greenhouse.io/zupinnovation/jobs/4769513003)
 - [Pessoa Desenvolvedora Android Sênior](https://boards.greenhouse.io/zupinnovation/jobs/4769500003)
-- [Pessoa Desenvolvedora IOS Pleno/Sênior](https://boards.greenhouse.io/zupinnovation/jobs/4724596003)
 - [Pessoa Desenvolvedora Back-end Java Sênior/Especialista](https://boards.greenhouse.io/zupinnovation/jobs/4647959003)
 - [Analista de Testes Automatizados Sênior | Especialista](https://boards.greenhouse.io/zupinnovation/jobs/4383422003)
 - [DevOps || Site Reliability Engineer](https://boards.greenhouse.io/zupinnovation/jobs/4383442003)
