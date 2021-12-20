@@ -49,7 +49,9 @@ Por que criamos tecnologia: https://www.youtube.com/watch?v=dncmhBEjko8
 ## Veja nossas oportunidades
 
 <!-- BLOG-POST-LIST:START -->
-- [Pessoa Desenvolvedor Android](https://boards.greenhouse.io/zupinnovation/jobs/4769500003)
+- [Pessoa Desenvolvedora IOS Pleno/Sênior](https://boards.greenhouse.io/zupinnovation/jobs/4724596003)
+- [Pessoa Tech Lead Java](https://boards.greenhouse.io/zupinnovation/jobs/4653955003)
+- [Pessoa Tech Lead Java - AFIRMATIVA E EXCLUSIVA PARA PESSOAS NEGRAS](https://boards.greenhouse.io/zupinnovation/jobs/4726742003)
 - [Pessoa Desenvolvedora Python | Especialista](https://boards.greenhouse.io/zupinnovation/jobs/4867989003)
 - [Pessoa Desenvolvedora Severless | Senior/Especialista](https://boards.greenhouse.io/zupinnovation/jobs/4867887003)
 - [Pessoa Arquiteta de Soluções | Senior/Especialista](https://boards.greenhouse.io/zupinnovation/jobs/4867762003)
@@ -59,11 +61,9 @@ Por que criamos tecnologia: https://www.youtube.com/watch?v=dncmhBEjko8
 - [Pessoa Desenvolvedora .NET Core - Sênior](https://boards.greenhouse.io/zupinnovation/jobs/4799284003)
 - [Pessoa Desenvolvedora Backend Typescript - Sênior/Especialista](https://boards.greenhouse.io/zupinnovation/jobs/4832475003)
 - [SRE Sênior](https://boards.greenhouse.io/zupinnovation/jobs/4832486003)
-- [Devops/SRE - CharlesCD Open Source](https://boards.greenhouse.io/zupinnovation/jobs/4831279003)
 - [Career &amp; Rewards Analyst](https://boards.greenhouse.io/zupinnovation/jobs/4819939003)
 - [Pessoa Desenvolvedora Backend .NET - Sênior/Especialista](https://boards.greenhouse.io/zupinnovation/jobs/4818038003)
 - [Pessoa Desenvolvedora Back End Node](https://boards.greenhouse.io/zupinnovation/jobs/4813249003)
-- [Pessoa Engenheira de Dados](https://boards.greenhouse.io/zupinnovation/jobs/4810860003)
 - [Pessoa Desenvolvedora Backend Java/Kotlin - Sênior](https://boards.greenhouse.io/zupinnovation/jobs/4771661003)
 - [Desenvolvedor IOS Sênior](https://boards.greenhouse.io/zupinnovation/jobs/4769513003)
 - [Pessoa Desenvolvedora Back-end Java Sênior/Especialista](https://boards.greenhouse.io/zupinnovation/jobs/4647959003)
