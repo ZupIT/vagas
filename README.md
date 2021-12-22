@@ -49,8 +49,8 @@ Por que criamos tecnologia: https://www.youtube.com/watch?v=dncmhBEjko8
 ## Veja nossas oportunidades
 
 <!-- BLOG-POST-LIST:START -->
+- [Talent Sourcer](https://boards.greenhouse.io/zupinnovation/jobs/4875556003)
 - [Aceleração Acadêmica Sênior](https://boards.greenhouse.io/zupinnovation/jobs/4807006003)
-- [Talent Sourcer -](https://boards.greenhouse.io/zupinnovation/jobs/4875556003)
 - [Pessoa Desenvolvedora IOS Pleno/Sênior](https://boards.greenhouse.io/zupinnovation/jobs/4724596003)
 - [Pessoa Tech Lead Java](https://boards.greenhouse.io/zupinnovation/jobs/4653955003)
 - [Pessoa Tech Lead Java - AFIRMATIVA E EXCLUSIVA PARA PESSOAS NEGRAS](https://boards.greenhouse.io/zupinnovation/jobs/4726742003)
