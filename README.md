@@ -49,6 +49,7 @@ Por que criamos tecnologia: https://www.youtube.com/watch?v=dncmhBEjko8
 ## Veja nossas oportunidades
 
 <!-- BLOG-POST-LIST:START -->
+- [Pessoa Desenvolvedora NodeJS](https://boards.greenhouse.io/zupinnovation/jobs/4861657003)
 - [Learning &amp; Development](https://boards.greenhouse.io/zupinnovation/jobs/4894481003)
 - [Talent Partner Process](https://boards.greenhouse.io/zupinnovation/jobs/4896423003)
 - [Talent Sourcer](https://boards.greenhouse.io/zupinnovation/jobs/4875556003)
@@ -68,7 +69,6 @@ Por que criamos tecnologia: https://www.youtube.com/watch?v=dncmhBEjko8
 - [Pessoa Desenvolvedora Back-end Java Sênior/Especialista](https://boards.greenhouse.io/zupinnovation/jobs/4647959003)
 - [Pessoa Desenvolvedora Back End Node](https://boards.greenhouse.io/zupinnovation/jobs/4813249003)
 - [Pessoa Desenvolvedora IOS Pleno/Sênior](https://boards.greenhouse.io/zupinnovation/jobs/4724596003)
-- [Pessoa Tech Lead Java](https://boards.greenhouse.io/zupinnovation/jobs/4653955003)
 <!-- BLOG-POST-LIST:END -->
 
 
