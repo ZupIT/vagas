@@ -49,8 +49,8 @@ Por que criamos tecnologia: https://www.youtube.com/watch?v=dncmhBEjko8
 ## Veja nossas oportunidades
 
 <!-- BLOG-POST-LIST:START -->
+- [Pessoa Tech Lead Java](https://boards.greenhouse.io/zupinnovation/jobs/4653955003)
 - [Pessoa Desenvolvedora NodeJS](https://boards.greenhouse.io/zupinnovation/jobs/4861657003)
-- [Learning &amp; Development](https://boards.greenhouse.io/zupinnovation/jobs/4894481003)
 - [Talent Partner Process](https://boards.greenhouse.io/zupinnovation/jobs/4896423003)
 - [Talent Sourcer](https://boards.greenhouse.io/zupinnovation/jobs/4875556003)
 - [Analista de Testes Automatizados Sênior | Especialista](https://boards.greenhouse.io/zupinnovation/jobs/4383422003)
