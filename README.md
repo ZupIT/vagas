@@ -49,6 +49,7 @@ Por que criamos tecnologia: https://www.youtube.com/watch?v=dncmhBEjko8
 ## Veja nossas oportunidades
 
 <!-- BLOG-POST-LIST:START -->
+- [Analista de Testes Automatizados Sênior](https://boards.greenhouse.io/zupinnovation/jobs/4904535003)
 - [Business Analyst | Pleno](https://boards.greenhouse.io/zupinnovation/jobs/4903972003)
 - [Devops/SRE - CharlesCD Open Source](https://boards.greenhouse.io/zupinnovation/jobs/4831279003)
 - [Talent Partner Process](https://boards.greenhouse.io/zupinnovation/jobs/4896423003)
@@ -68,7 +69,6 @@ Por que criamos tecnologia: https://www.youtube.com/watch?v=dncmhBEjko8
 - [Pessoa Desenvolvedora Android Sênior/Especialista](https://boards.greenhouse.io/zupinnovation/jobs/4752209003)
 - [Pessoa Desenvolvedora Back-end Java Sênior/Especialista](https://boards.greenhouse.io/zupinnovation/jobs/4647959003)
 - [Pessoa Desenvolvedora Back End Node](https://boards.greenhouse.io/zupinnovation/jobs/4813249003)
-- [Pessoa Desenvolvedora IOS Pleno/Sênior](https://boards.greenhouse.io/zupinnovation/jobs/4724596003)
 <!-- BLOG-POST-LIST:END -->
 
 
