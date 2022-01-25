@@ -49,6 +49,7 @@ Por que criamos tecnologia: https://www.youtube.com/watch?v=dncmhBEjko8
 ## Veja nossas oportunidades
 
 <!-- BLOG-POST-LIST:START -->
+- [Pessoa Desenvolvedora NodeJS](https://boards.greenhouse.io/zupinnovation/jobs/4861657003)
 - [Pessoa Engenheira de Dados](https://boards.greenhouse.io/zupinnovation/jobs/4810860003)
 - [Pessoa Desenvolvedora IOS Pleno/Sênior](https://boards.greenhouse.io/zupinnovation/jobs/4724596003)
 - [Cloud Engineer Senior](https://boards.greenhouse.io/zupinnovation/jobs/4907036003)
@@ -57,7 +58,6 @@ Por que criamos tecnologia: https://www.youtube.com/watch?v=dncmhBEjko8
 - [Analista de Testes Automatizados Sênior | Especialista](https://boards.greenhouse.io/zupinnovation/jobs/4383422003)
 - [DevOps || Site Reliability Engineer](https://boards.greenhouse.io/zupinnovation/jobs/4383442003)
 - [Desenvolvedor IOS Sênior](https://boards.greenhouse.io/zupinnovation/jobs/4769513003)
-- [Pessoa Desenvolvedora Backend Java/Kotlin - Sênior](https://boards.greenhouse.io/zupinnovation/jobs/4771661003)
 - [Pessoa Desenvolvedora Backend .NET - Sênior/Especialista](https://boards.greenhouse.io/zupinnovation/jobs/4818038003)
 - [Pessoa Arquiteta de Soluções | Senior/Especialista](https://boards.greenhouse.io/zupinnovation/jobs/4867762003)
 - [Pessoa Desenvolvedora Backend Typescript - Sênior/Especialista](https://boards.greenhouse.io/zupinnovation/jobs/4832475003)
