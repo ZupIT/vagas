@@ -49,6 +49,7 @@ Por que criamos tecnologia: https://www.youtube.com/watch?v=dncmhBEjko8
 ## Veja nossas oportunidades
 
 <!-- BLOG-POST-LIST:START -->
+- [Analista Privacidade | Sênior](https://boards.greenhouse.io/zupinnovation/jobs/4956636003)
 - [Security Engineer - Blue Team](https://boards.greenhouse.io/zupinnovation/jobs/4444176003)
 - [Desenvolvedor Back-end](https://boards.greenhouse.io/zupinnovation/jobs/4957677003)
 - [Analista de Red Team](https://boards.greenhouse.io/zupinnovation/jobs/4946521003)
