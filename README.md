@@ -49,6 +49,7 @@ Por que criamos tecnologia: https://www.youtube.com/watch?v=dncmhBEjko8
 ## Veja nossas oportunidades
 
 <!-- BLOG-POST-LIST:START -->
+- [Analista de Application Security - DevSecOps](https://boards.greenhouse.io/zupinnovation/jobs/4801534003)
 - [Analista Privacidade | Sênior](https://boards.greenhouse.io/zupinnovation/jobs/4956636003)
 - [Pessoa SRE/DevOps Pleno/Sênior](https://boards.greenhouse.io/zupinnovation/jobs/4963576003)
 - [SRE Sênior/Especialista](https://boards.greenhouse.io/zupinnovation/jobs/4964911003)
@@ -65,7 +66,6 @@ Por que criamos tecnologia: https://www.youtube.com/watch?v=dncmhBEjko8
 - [Pessoa Desenvolvedora Backend Typescript - Sênior/Especialista](https://boards.greenhouse.io/zupinnovation/jobs/4832475003)
 - [Pessoa Desenvolvedora .Net | Senior/Especialista](https://boards.greenhouse.io/zupinnovation/jobs/4867836003)
 - [Pessoa Desenvolvedora Severless | Senior/Especialista](https://boards.greenhouse.io/zupinnovation/jobs/4867887003)
-- [SRE Sênior](https://boards.greenhouse.io/zupinnovation/jobs/4832486003)
 - [Pessoa Desenvolvedora Android Sênior/Especialista](https://boards.greenhouse.io/zupinnovation/jobs/4752209003)
 - [Pessoa Desenvolvedora Back-end Java Sênior/Especialista](https://boards.greenhouse.io/zupinnovation/jobs/4647959003)
 - [Pessoa Desenvolvedora Back End Node](https://boards.greenhouse.io/zupinnovation/jobs/4813249003)
