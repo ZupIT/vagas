@@ -49,8 +49,8 @@ Por que criamos tecnologia: https://www.youtube.com/watch?v=dncmhBEjko8
 ## Veja nossas oportunidades
 
 <!-- BLOG-POST-LIST:START -->
-- [HRBP | Tech - Sênior](https://boards.greenhouse.io/zupinnovation/jobs/4987145003)
-- [Analista Privacidade | Sênior](https://boards.greenhouse.io/zupinnovation/jobs/4956636003)
+- [Talent Sourcer - Senior](https://boards.greenhouse.io/zupinnovation/jobs/4991440003)
+- [Talent Sourcer - Sênior](https://boards.greenhouse.io/zupinnovation/jobs/4875556003)
 - [Pessoa SRE/DevOps Pleno/Sênior](https://boards.greenhouse.io/zupinnovation/jobs/4963576003)
 - [SRE Sênior/Especialista](https://boards.greenhouse.io/zupinnovation/jobs/4964911003)
 - [Analista de Testes Automatizados Mobile Pleno&lpar;a&rpar; &lpar;Afirmativa para mulheres e pessoas pretas&rpar;](https://boards.greenhouse.io/zupinnovation/jobs/4973700003)
