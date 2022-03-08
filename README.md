@@ -49,14 +49,15 @@ Por que criamos tecnologia: https://www.youtube.com/watch?v=dncmhBEjko8
 ## Veja nossas oportunidades
 
 <!-- BLOG-POST-LIST:START -->
+- [Pessoa Tech Lead Java - AFIRMATIVA E EXCLUSIVA PARA PESSOAS NEGRAS](https://boards.greenhouse.io/zupinnovation/jobs/4726742003)
+- [SRE Sênior/Especialista](https://boards.greenhouse.io/zupinnovation/jobs/4964911003)
+- [Tech Lead Mobile](https://boards.greenhouse.io/zupinnovation/jobs/4992776003)
 - [Cloud Engineer Sênior/Especialista](https://boards.greenhouse.io/zupinnovation/jobs/5005899003)
 - [HRBP | Vaga afirmativa para pessoas Negras e/ou PCDs](https://boards.greenhouse.io/zupinnovation/jobs/5002260003)
 - [Talent Sourcer](https://boards.greenhouse.io/zupinnovation/jobs/4991440003)
 - [Business Analyst | Product](https://boards.greenhouse.io/zupinnovation/jobs/4903972003)
 - [Talent Sourcer - Sênior](https://boards.greenhouse.io/zupinnovation/jobs/4875556003)
 - [Pessoa SRE/DevOps Pleno/Sênior](https://boards.greenhouse.io/zupinnovation/jobs/4963576003)
-- [Analista de Testes Automatizados Mobile Pleno&lpar;a&rpar; &lpar;Afirmativa para mulheres e pessoas pretas&rpar;](https://boards.greenhouse.io/zupinnovation/jobs/4973700003)
-- [Pessoa Desenvolvedora Front End Angular Sênior](https://boards.greenhouse.io/zupinnovation/jobs/4938388003)
 - [Desenvolvedor Back-end](https://boards.greenhouse.io/zupinnovation/jobs/4957677003)
 - [Pessoa Tech Lead Java](https://boards.greenhouse.io/zupinnovation/jobs/4653955003)
 - [Pessoa Engenheira de Dados Sênior](https://boards.greenhouse.io/zupinnovation/jobs/4937714003)
@@ -67,7 +68,6 @@ Por que criamos tecnologia: https://www.youtube.com/watch?v=dncmhBEjko8
 - [Pessoa Desenvolvedora .Net | Senior/Especialista](https://boards.greenhouse.io/zupinnovation/jobs/4867836003)
 - [Pessoa Desenvolvedora Severless | Senior/Especialista](https://boards.greenhouse.io/zupinnovation/jobs/4867887003)
 - [Pessoa Desenvolvedora Android Sênior/Especialista](https://boards.greenhouse.io/zupinnovation/jobs/4752209003)
-- [Pessoa Desenvolvedora Back-end Java Sênior/Especialista](https://boards.greenhouse.io/zupinnovation/jobs/4647959003)
 - [Pessoa Desenvolvedora Back End Node](https://boards.greenhouse.io/zupinnovation/jobs/4813249003)
 <!-- BLOG-POST-LIST:END -->
 
