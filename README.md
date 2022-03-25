@@ -49,6 +49,8 @@ Por que criamos tecnologia: https://www.youtube.com/watch?v=dncmhBEjko8
 ## Veja nossas oportunidades
 
 <!-- BLOG-POST-LIST:START -->
+- [Tech Community | Pleno](https://boards.greenhouse.io/zupinnovation/jobs/4988227003)
+- [Analista de Application Security - DevSecOps](https://boards.greenhouse.io/zupinnovation/jobs/4801534003)
 - [Tech Lead Mobile](https://boards.greenhouse.io/zupinnovation/jobs/4992776003)
 - [Tech Lead Fullstack](https://boards.greenhouse.io/zupinnovation/jobs/5014449003)
 - [Talent Acquisition Specialist](https://boards.greenhouse.io/zupinnovation/jobs/5034556003)
@@ -57,12 +59,10 @@ Por que criamos tecnologia: https://www.youtube.com/watch?v=dncmhBEjko8
 - [Lead Data Science](https://boards.greenhouse.io/zupinnovation/jobs/4985408003)
 - [Pessoa Tech Lead Java - AFIRMATIVA E EXCLUSIVA PARA PESSOAS NEGRAS](https://boards.greenhouse.io/zupinnovation/jobs/4726742003)
 - [Cloud Engineer Sênior/Especialista](https://boards.greenhouse.io/zupinnovation/jobs/5005899003)
-- [Talent Sourcer - Sênior](https://boards.greenhouse.io/zupinnovation/jobs/4875556003)
 - [Pessoa SRE/DevOps Pleno/Sênior](https://boards.greenhouse.io/zupinnovation/jobs/4963576003)
 - [Desenvolvedor Back-end](https://boards.greenhouse.io/zupinnovation/jobs/4957677003)
 - [Pessoa Engenheira de Dados Sênior](https://boards.greenhouse.io/zupinnovation/jobs/4937714003)
 - [Pessoa Desenvolvedora IOS Pleno/Sênior](https://boards.greenhouse.io/zupinnovation/jobs/4724596003)
-- [Devops/SRE - CharlesCD Open Source](https://boards.greenhouse.io/zupinnovation/jobs/4831279003)
 - [Pessoa Arquiteta de Soluções | Senior/Especialista](https://boards.greenhouse.io/zupinnovation/jobs/4867762003)
 - [Pessoa Desenvolvedora Backend Typescript - Sênior/Especialista](https://boards.greenhouse.io/zupinnovation/jobs/4832475003)
 - [Pessoa Desenvolvedora .Net | Senior/Especialista](https://boards.greenhouse.io/zupinnovation/jobs/4867836003)
