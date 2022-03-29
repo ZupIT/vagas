@@ -49,7 +49,7 @@ Por que criamos tecnologia: https://www.youtube.com/watch?v=dncmhBEjko8
 ## Veja nossas oportunidades
 
 <!-- BLOG-POST-LIST:START -->
-- [Especialista de Testes Automatizados Mobile](https://boards.greenhouse.io/zupinnovation/jobs/5011288003)
+- [Tech Community | Pleno](https://boards.greenhouse.io/zupinnovation/jobs/4988227003)
 - [Cientista de Dados Sênior](https://boards.greenhouse.io/zupinnovation/jobs/5037288003)
 - [Devops/SRE - CharlesCD Open Source](https://boards.greenhouse.io/zupinnovation/jobs/4831279003)
 - [Tech Lead Mobile](https://boards.greenhouse.io/zupinnovation/jobs/4992776003)
