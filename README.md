@@ -49,7 +49,7 @@ Por que criamos tecnologia: https://www.youtube.com/watch?v=dncmhBEjko8
 ## Veja nossas oportunidades
 
 <!-- BLOG-POST-LIST:START -->
-- [Python Developer | Sênior](https://boards.greenhouse.io/zupinnovation/jobs/5059588003)
+- [Pessoa UX Research Sênior](https://boards.greenhouse.io/zupinnovation/jobs/5057959003)
 - [Analista Privacidade | Sênior](https://boards.greenhouse.io/zupinnovation/jobs/4956636003)
 - [SRE DevOps - Cloud Architect](https://boards.greenhouse.io/zupinnovation/jobs/5056303003)
 - [Cientista de Dados Sênior](https://boards.greenhouse.io/zupinnovation/jobs/5037288003)
