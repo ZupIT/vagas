@@ -49,12 +49,12 @@ Por que criamos tecnologia: https://www.youtube.com/watch?v=dncmhBEjko8
 ## Veja nossas oportunidades
 
 <!-- BLOG-POST-LIST:START -->
+- [Data Engineer Sênior](https://boards.greenhouse.io/zupinnovation/jobs/5021569003)
 - [Analista de Testes Automatizados Sênior](https://boards.greenhouse.io/zupinnovation/jobs/4904535003)
 - [Pessoa Tech Lead Java](https://boards.greenhouse.io/zupinnovation/jobs/4653955003)
 - [Pessoa UX Research Sênior](https://boards.greenhouse.io/zupinnovation/jobs/5057959003)
 - [SRE DevOps - Cloud Architect](https://boards.greenhouse.io/zupinnovation/jobs/5056303003)
 - [Cientista de Dados Sênior](https://boards.greenhouse.io/zupinnovation/jobs/5037288003)
-- [Tech Lead Fullstack](https://boards.greenhouse.io/zupinnovation/jobs/5014449003)
 - [Talent Acquisition Specialist](https://boards.greenhouse.io/zupinnovation/jobs/5034556003)
 - [Lead Data Science](https://boards.greenhouse.io/zupinnovation/jobs/4985408003)
 - [Pessoa Tech Lead Java - AFIRMATIVA E EXCLUSIVA PARA PESSOAS NEGRAS](https://boards.greenhouse.io/zupinnovation/jobs/4726742003)
