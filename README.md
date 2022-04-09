@@ -49,15 +49,15 @@ Por que criamos tecnologia: https://www.youtube.com/watch?v=dncmhBEjko8
 ## Veja nossas oportunidades
 
 <!-- BLOG-POST-LIST:START -->
+- [Analista Privacidade | Sênior](https://boards.greenhouse.io/zupinnovation/jobs/4956636003)
+- [Python Developer | Sênior](https://boards.greenhouse.io/zupinnovation/jobs/5059588003)
+- [Tech Community | Pleno](https://boards.greenhouse.io/zupinnovation/jobs/4988227003)
 - [Pessoa Desenvolvedora Backend NodeJS Sênior](https://boards.greenhouse.io/zupinnovation/jobs/5055882003)
 - [Data Engineer Sênior](https://boards.greenhouse.io/zupinnovation/jobs/5021569003)
 - [Analista de Testes Automatizados Sênior](https://boards.greenhouse.io/zupinnovation/jobs/4904535003)
-- [Pessoa Tech Lead Java](https://boards.greenhouse.io/zupinnovation/jobs/4653955003)
 - [SRE DevOps - Cloud Architect](https://boards.greenhouse.io/zupinnovation/jobs/5056303003)
 - [Cientista de Dados Sênior](https://boards.greenhouse.io/zupinnovation/jobs/5037288003)
-- [Talent Acquisition Specialist](https://boards.greenhouse.io/zupinnovation/jobs/5034556003)
 - [Lead Data Science](https://boards.greenhouse.io/zupinnovation/jobs/4985408003)
-- [Pessoa Tech Lead Java - AFIRMATIVA E EXCLUSIVA PARA PESSOAS NEGRAS](https://boards.greenhouse.io/zupinnovation/jobs/4726742003)
 - [Cloud Engineer Sênior/Especialista](https://boards.greenhouse.io/zupinnovation/jobs/5005899003)
 - [Pessoa SRE/DevOps Pleno/Sênior](https://boards.greenhouse.io/zupinnovation/jobs/4963576003)
 - [Desenvolvedor Back-end](https://boards.greenhouse.io/zupinnovation/jobs/4957677003)
