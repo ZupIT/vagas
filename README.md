@@ -49,7 +49,7 @@ Por que criamos tecnologia: https://www.youtube.com/watch?v=dncmhBEjko8
 ## Veja nossas oportunidades
 
 <!-- BLOG-POST-LIST:START -->
-- [Analista de Red Team](https://boards.greenhouse.io/zupinnovation/jobs/4946521003)
+- [Pessoa Desenvolvedora Python Sênior](https://boards.greenhouse.io/zupinnovation/jobs/5070352003)
 - [Analista de Application Security - DevSecOps](https://boards.greenhouse.io/zupinnovation/jobs/4801534003)
 - [Talent Acquisition Specialist](https://boards.greenhouse.io/zupinnovation/jobs/5034556003)
 - [Pessoa UX Research Sênior](https://boards.greenhouse.io/zupinnovation/jobs/5057959003)
