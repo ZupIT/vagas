@@ -49,11 +49,11 @@ Por que criamos tecnologia: https://www.youtube.com/watch?v=dncmhBEjko8
 ## Veja nossas oportunidades
 
 <!-- BLOG-POST-LIST:START -->
+- [Pessoa Desenvolvedora Android Sênior/Especialista](https://boards.greenhouse.io/zupinnovation/jobs/5050407003)
+- [Pessoa Desenvolvedora IOS Sênior/Especialista](https://boards.greenhouse.io/zupinnovation/jobs/5050388003)
+- [Pessoa Desenvolvedora Kotlin Especialista](https://boards.greenhouse.io/zupinnovation/jobs/5050364003)
 - [Pessoa Desenvolvedora Python Sênior](https://boards.greenhouse.io/zupinnovation/jobs/5070352003)
-- [Analista de Application Security - DevSecOps](https://boards.greenhouse.io/zupinnovation/jobs/4801534003)
-- [Talent Acquisition Specialist](https://boards.greenhouse.io/zupinnovation/jobs/5034556003)
 - [Pessoa UX Research Sênior](https://boards.greenhouse.io/zupinnovation/jobs/5057959003)
-- [Tech Lead Fullstack](https://boards.greenhouse.io/zupinnovation/jobs/5014449003)
 - [Pessoa Tech Lead Java](https://boards.greenhouse.io/zupinnovation/jobs/4653955003)
 - [Pessoa Tech Lead Java - AFIRMATIVA E EXCLUSIVA PARA PESSOAS NEGRAS](https://boards.greenhouse.io/zupinnovation/jobs/4726742003)
 - [Analista Privacidade | Sênior](https://boards.greenhouse.io/zupinnovation/jobs/4956636003)
