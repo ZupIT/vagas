@@ -49,8 +49,8 @@ Por que criamos tecnologia: https://www.youtube.com/watch?v=dncmhBEjko8
 ## Veja nossas oportunidades
 
 <!-- BLOG-POST-LIST:START -->
+- [Pessoa Desenvolvedora Java/Kotlin Sênior](https://boards.greenhouse.io/zupinnovation/jobs/5077883003)
 - [Tech Community](https://boards.greenhouse.io/zupinnovation/jobs/4988227003)
-- [Pessoa UX Research Sênior](https://boards.greenhouse.io/zupinnovation/jobs/5057959003)
 - [Cientista de Dados Sênior](https://boards.greenhouse.io/zupinnovation/jobs/5037288003)
 - [Data Engineer Sênior](https://boards.greenhouse.io/zupinnovation/jobs/5075031003)
 - [Pessoa Desenvolvedora Android Sênior/Especialista](https://boards.greenhouse.io/zupinnovation/jobs/5050407003)
