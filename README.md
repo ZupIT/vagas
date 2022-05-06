@@ -49,6 +49,7 @@ Por que criamos tecnologia: https://www.youtube.com/watch?v=dncmhBEjko8
 ## Veja nossas oportunidades
 
 <!-- BLOG-POST-LIST:START -->
+- [Pessoa Engenheira de Machine Learning Sênior/Especialista](https://boards.greenhouse.io/zupinnovation/jobs/5095614003)
 - [Especialista Data Engineer](https://boards.greenhouse.io/zupinnovation/jobs/4937714003)
 - [Pessoa Desenvolvedora IOS Pleno/Sênior](https://boards.greenhouse.io/zupinnovation/jobs/4724596003)
 - [Pessoa de UI Design Sênior](https://boards.greenhouse.io/zupinnovation/jobs/5115130003)
@@ -68,7 +69,6 @@ Por que criamos tecnologia: https://www.youtube.com/watch?v=dncmhBEjko8
 - [Lead Data Science](https://boards.greenhouse.io/zupinnovation/jobs/4985408003)
 - [Cloud Engineer Sênior/Especialista](https://boards.greenhouse.io/zupinnovation/jobs/5005899003)
 - [Pessoa Desenvolvedora Android Sênior/Especialista](https://boards.greenhouse.io/zupinnovation/jobs/4752209003)
-- [Pessoa Desenvolvedora Back End Node](https://boards.greenhouse.io/zupinnovation/jobs/4813249003)
 <!-- BLOG-POST-LIST:END -->
 
 
