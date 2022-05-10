@@ -49,9 +49,10 @@ Por que criamos tecnologia: https://www.youtube.com/watch?v=dncmhBEjko8
 ## Veja nossas oportunidades
 
 <!-- BLOG-POST-LIST:START -->
+- [Pessoa Instrutora I Java](https://boards.greenhouse.io/zupinnovation/jobs/5121197003)
+- [Pessoa Arquiteta de Dados](https://boards.greenhouse.io/zupinnovation/jobs/5037310003)
 - [Pessoa Desenvolvedora IOS Pleno/Sênior](https://boards.greenhouse.io/zupinnovation/jobs/4724596003)
 - [Pessoa de UI Design Sênior](https://boards.greenhouse.io/zupinnovation/jobs/5115130003)
-- [Pessoa Tech Lead Java - AFIRMATIVA E EXCLUSIVA PARA PESSOAS NEGRAS](https://boards.greenhouse.io/zupinnovation/jobs/4726742003)
 - [Analista de Processo | Sênior](https://boards.greenhouse.io/zupinnovation/jobs/5118774003)
 - [Pessoa Engenheira de Machine Learning Sênior/Especialista](https://boards.greenhouse.io/zupinnovation/jobs/5095614003)
 - [Especialista Data Engineer](https://boards.greenhouse.io/zupinnovation/jobs/4937714003)
@@ -66,7 +67,6 @@ Por que criamos tecnologia: https://www.youtube.com/watch?v=dncmhBEjko8
 - [Pessoa Desenvolvedora IOS Sênior/Especialista](https://boards.greenhouse.io/zupinnovation/jobs/5050388003)
 - [Pessoa Desenvolvedora Kotlin Especialista](https://boards.greenhouse.io/zupinnovation/jobs/5050364003)
 - [Python Developer | Sênior](https://boards.greenhouse.io/zupinnovation/jobs/5059588003)
-- [Lead Data Science](https://boards.greenhouse.io/zupinnovation/jobs/4985408003)
 - [Cloud Engineer Sênior/Especialista](https://boards.greenhouse.io/zupinnovation/jobs/5005899003)
 - [Pessoa Desenvolvedora Android Sênior/Especialista](https://boards.greenhouse.io/zupinnovation/jobs/4752209003)
 <!-- BLOG-POST-LIST:END -->
