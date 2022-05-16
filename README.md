@@ -49,6 +49,7 @@ Por que criamos tecnologia: https://www.youtube.com/watch?v=dncmhBEjko8
 ## Veja nossas oportunidades
 
 <!-- BLOG-POST-LIST:START -->
+- [Pessoa Instrutora | Android](https://boards.greenhouse.io/zupinnovation/jobs/5130771003)
 - [Analista de Application Security - DevSecOps](https://boards.greenhouse.io/zupinnovation/jobs/4801534003)
 - [Analista de Red Team](https://boards.greenhouse.io/zupinnovation/jobs/4946521003)
 - [Pessoa Desenvolvedora Backend Java](https://boards.greenhouse.io/zupinnovation/jobs/4987892003)
@@ -67,7 +68,6 @@ Por que criamos tecnologia: https://www.youtube.com/watch?v=dncmhBEjko8
 - [Tech Community](https://boards.greenhouse.io/zupinnovation/jobs/4988227003)
 - [Data Engineer Sênior](https://boards.greenhouse.io/zupinnovation/jobs/5075031003)
 - [Pessoa Desenvolvedora IOS Sênior/Especialista](https://boards.greenhouse.io/zupinnovation/jobs/5050388003)
-- [Python Developer | Sênior](https://boards.greenhouse.io/zupinnovation/jobs/5059588003)
 - [Pessoa Desenvolvedora Android Sênior/Especialista](https://boards.greenhouse.io/zupinnovation/jobs/4752209003)
 <!-- BLOG-POST-LIST:END -->
 
