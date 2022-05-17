@@ -49,7 +49,7 @@ Por que criamos tecnologia: https://www.youtube.com/watch?v=dncmhBEjko8
 ## Veja nossas oportunidades
 
 <!-- BLOG-POST-LIST:START -->
-- [Security Engineer - Blue Team](https://boards.greenhouse.io/zupinnovation/jobs/4444176003)
+- [Pessoa Desenvolvedora Node.Js](https://boards.greenhouse.io/zupinnovation/jobs/5115117003)
 - [Pessoa Instrutora | Android](https://boards.greenhouse.io/zupinnovation/jobs/5130771003)
 - [Analista de Application Security - DevSecOps](https://boards.greenhouse.io/zupinnovation/jobs/4801534003)
 - [Analista de Red Team](https://boards.greenhouse.io/zupinnovation/jobs/4946521003)
