@@ -49,14 +49,14 @@ Por que criamos tecnologia: https://www.youtube.com/watch?v=dncmhBEjko8
 ## Veja nossas oportunidades
 
 <!-- BLOG-POST-LIST:START -->
+- [Pessoa Desenvolvedora Back End Java/Kotlin Sênior - Vaga afirmativa para mulheres!](https://boards.greenhouse.io/zupinnovation/jobs/5139899003)
+- [Pessoa Desenvolvedora Back End Java/Kotlin Sênior - Vaga afirmativa para pessoas com deficiência!](https://boards.greenhouse.io/zupinnovation/jobs/5139903003)
+- [Pessoa Desenvolvedora Back End Java/Kotlin Sênior - Vaga afirmativa para pessoas pretas!](https://boards.greenhouse.io/zupinnovation/jobs/5139917003)
 - [Pessoa Tech Lead Java/Kotlin - Afirmativa para pessoas pretas](https://boards.greenhouse.io/zupinnovation/jobs/5118385003)
 - [Pessoa Tech Lead Java/Kotlin - Afirmativa para mulheres](https://boards.greenhouse.io/zupinnovation/jobs/5118383003)
 - [Pessoa Tech Lead Java/Kotlin - Afirmativa para Pessoas com deficiência](https://boards.greenhouse.io/zupinnovation/jobs/5118384003)
-- [Pessoa Desenvolvedora Node.Js](https://boards.greenhouse.io/zupinnovation/jobs/5115117003)
 - [Pessoa Instrutora | Android](https://boards.greenhouse.io/zupinnovation/jobs/5130771003)
-- [Analista de Application Security - DevSecOps](https://boards.greenhouse.io/zupinnovation/jobs/4801534003)
 - [Pessoa SRE/Devops Sênior](https://boards.greenhouse.io/zupinnovation/jobs/5060275003)
-- [Pessoa Tech Lead Java - AFIRMATIVA E EXCLUSIVA PARA PESSOAS NEGRAS](https://boards.greenhouse.io/zupinnovation/jobs/4726742003)
 - [Pessoa Instrutora I Java](https://boards.greenhouse.io/zupinnovation/jobs/5121197003)
 - [Pessoa Arquiteta de Dados](https://boards.greenhouse.io/zupinnovation/jobs/5037310003)
 - [Pessoa Desenvolvedora IOS Pleno/Sênior](https://boards.greenhouse.io/zupinnovation/jobs/4724596003)
