@@ -49,6 +49,8 @@ Por que criamos tecnologia: https://www.youtube.com/watch?v=dncmhBEjko8
 ## Veja nossas oportunidades
 
 <!-- BLOG-POST-LIST:START -->
+- [Pessoa UX Research](https://boards.greenhouse.io/zupinnovation/jobs/5057959003)
+- [Quality Assurance Specialist](https://boards.greenhouse.io/zupinnovation/jobs/5142825003)
 - [Pessoa Desenvolvedora Back End Java/Kotlin Sênior - Vaga afirmativa para mulheres!](https://boards.greenhouse.io/zupinnovation/jobs/5139899003)
 - [Pessoa Desenvolvedora Back End Java/Kotlin Sênior - Vaga afirmativa para pessoas com deficiência!](https://boards.greenhouse.io/zupinnovation/jobs/5139903003)
 - [Pessoa Desenvolvedora Back End Java/Kotlin Sênior - Vaga afirmativa para pessoas pretas!](https://boards.greenhouse.io/zupinnovation/jobs/5139917003)
@@ -59,7 +61,6 @@ Por que criamos tecnologia: https://www.youtube.com/watch?v=dncmhBEjko8
 - [Pessoa SRE/Devops Sênior](https://boards.greenhouse.io/zupinnovation/jobs/5060275003)
 - [Pessoa Instrutora I Java](https://boards.greenhouse.io/zupinnovation/jobs/5121197003)
 - [Pessoa Arquiteta de Dados](https://boards.greenhouse.io/zupinnovation/jobs/5037310003)
-- [Pessoa Desenvolvedora IOS Pleno/Sênior](https://boards.greenhouse.io/zupinnovation/jobs/4724596003)
 - [Pessoa Engenheira de Machine Learning Sênior/Especialista](https://boards.greenhouse.io/zupinnovation/jobs/5095614003)
 - [Especialista Data Engineer](https://boards.greenhouse.io/zupinnovation/jobs/4937714003)
 - [Pessoa Tech Lead Java/Kotlin](https://boards.greenhouse.io/zupinnovation/jobs/5075023003)
@@ -68,7 +69,6 @@ Por que criamos tecnologia: https://www.youtube.com/watch?v=dncmhBEjko8
 - [Tech Community](https://boards.greenhouse.io/zupinnovation/jobs/4988227003)
 - [Data Engineer Sênior](https://boards.greenhouse.io/zupinnovation/jobs/5075031003)
 - [Pessoa Desenvolvedora IOS Sênior/Especialista](https://boards.greenhouse.io/zupinnovation/jobs/5050388003)
-- [Pessoa Desenvolvedora Android Sênior/Especialista](https://boards.greenhouse.io/zupinnovation/jobs/4752209003)
 <!-- BLOG-POST-LIST:END -->
 
 
