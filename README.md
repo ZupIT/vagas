@@ -49,8 +49,8 @@ Por que criamos tecnologia: https://www.youtube.com/watch?v=dncmhBEjko8
 ## Veja nossas oportunidades
 
 <!-- BLOG-POST-LIST:START -->
-- [Pessoa UX Research](https://boards.greenhouse.io/zupinnovation/jobs/5057959003)
-- [Quality Assurance Specialist](https://boards.greenhouse.io/zupinnovation/jobs/5142825003)
+- [Pessoa Desenvolvedora Back End Kotlin Sênior](https://boards.greenhouse.io/zupinnovation/jobs/5075030003)
+- [Pessoa UX Researcher](https://boards.greenhouse.io/zupinnovation/jobs/5057959003)
 - [Pessoa Desenvolvedora Back End Java/Kotlin Sênior - Vaga afirmativa para mulheres!](https://boards.greenhouse.io/zupinnovation/jobs/5139899003)
 - [Pessoa Desenvolvedora Back End Java/Kotlin Sênior - Vaga afirmativa para pessoas com deficiência!](https://boards.greenhouse.io/zupinnovation/jobs/5139903003)
 - [Pessoa Desenvolvedora Back End Java/Kotlin Sênior - Vaga afirmativa para pessoas pretas!](https://boards.greenhouse.io/zupinnovation/jobs/5139917003)
