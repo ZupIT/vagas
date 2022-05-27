@@ -49,7 +49,7 @@ Por que criamos tecnologia: https://www.youtube.com/watch?v=dncmhBEjko8
 ## Veja nossas oportunidades
 
 <!-- BLOG-POST-LIST:START -->
-- [Product Designer Especialista](https://boards.greenhouse.io/zupinnovation/jobs/5148994003)
+- [Pessoa Desenvolvedora Angular Sênior/Especialista](https://boards.greenhouse.io/zupinnovation/jobs/5149808003)
 - [Pessoa Desenvolvedora Back End Kotlin Sênior](https://boards.greenhouse.io/zupinnovation/jobs/5075030003)
 - [Pessoa UX Researcher](https://boards.greenhouse.io/zupinnovation/jobs/5057959003)
 - [Pessoa Desenvolvedora Back End Java/Kotlin Sênior - Vaga afirmativa para mulheres!](https://boards.greenhouse.io/zupinnovation/jobs/5139899003)
