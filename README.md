@@ -49,9 +49,9 @@ Por que criamos tecnologia: https://www.youtube.com/watch?v=dncmhBEjko8
 ## Veja nossas oportunidades
 
 <!-- BLOG-POST-LIST:START -->
+- [Software Engineer](https://boards.greenhouse.io/zupinnovation/jobs/5151946003)
 - [Pessoa Desenvolvedora IOS Especialista](https://boards.greenhouse.io/zupinnovation/jobs/5050388003)
 - [Pessoa UX Researcher](https://boards.greenhouse.io/zupinnovation/jobs/5057959003)
-- [Product Designer Especialista](https://boards.greenhouse.io/zupinnovation/jobs/5148994003)
 - [Tech Lead Fullstack](https://boards.greenhouse.io/zupinnovation/jobs/5014449003)
 - [Quality Assurance Specialist](https://boards.greenhouse.io/zupinnovation/jobs/5142825003)
 - [Head de Transformação Digital - Vaga afirmativa para Pessoas Pretas e/ou PCDs](https://boards.greenhouse.io/zupinnovation/jobs/5151241003)
