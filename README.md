@@ -49,13 +49,13 @@ Por que criamos tecnologia: https://www.youtube.com/watch?v=dncmhBEjko8
 ## Veja nossas oportunidades
 
 <!-- BLOG-POST-LIST:START -->
-- [Software Engineer](https://boards.greenhouse.io/zupinnovation/jobs/5151946003)
+- [Data Analytics | Júnior | Vaga afirmativa para Mulheres e/ou PCDs](https://boards.greenhouse.io/zupinnovation/jobs/5155779003)
+- [Estágio em Dados | Vaga afirmativa para Mulheres e/ou PCDs](https://boards.greenhouse.io/zupinnovation/jobs/5155843003)
+- [Estágio | Engenharia de Dados | Vaga afirmativa p/ Mulheres e/ou PCDs](https://boards.greenhouse.io/zupinnovation/jobs/5155852003)
+- [Facilities Assistant -Vaga afirmativa para Pessoas Pretas e/ou PCDs](https://boards.greenhouse.io/zupinnovation/jobs/5153536003)
 - [Pessoa Desenvolvedora IOS Especialista](https://boards.greenhouse.io/zupinnovation/jobs/5050388003)
 - [Pessoa UX Researcher](https://boards.greenhouse.io/zupinnovation/jobs/5057959003)
-- [Tech Lead Fullstack](https://boards.greenhouse.io/zupinnovation/jobs/5014449003)
-- [Quality Assurance Specialist](https://boards.greenhouse.io/zupinnovation/jobs/5142825003)
 - [Head de Transformação Digital - Vaga afirmativa para Pessoas Pretas e/ou PCDs](https://boards.greenhouse.io/zupinnovation/jobs/5151241003)
-- [Pessoa Desenvolvedora Angular Sênior/Especialista](https://boards.greenhouse.io/zupinnovation/jobs/5149808003)
 - [Pessoa Desenvolvedora Back End Kotlin Sênior](https://boards.greenhouse.io/zupinnovation/jobs/5075030003)
 - [Pessoa Desenvolvedora Back End Java/Kotlin Sênior - Vaga afirmativa para mulheres!](https://boards.greenhouse.io/zupinnovation/jobs/5139899003)
 - [Pessoa Desenvolvedora Back End Java/Kotlin Sênior - Vaga afirmativa para pessoas com deficiência!](https://boards.greenhouse.io/zupinnovation/jobs/5139903003)
