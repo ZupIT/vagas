@@ -49,6 +49,7 @@ Por que criamos tecnologia: https://www.youtube.com/watch?v=dncmhBEjko8
 ## Veja nossas oportunidades
 
 <!-- BLOG-POST-LIST:START -->
+- [Tech Lead Fullstack](https://boards.greenhouse.io/zupinnovation/jobs/5014449003)
 - [Data Analytics | Júnior | Vaga afirmativa para Mulheres e/ou PCDs](https://boards.greenhouse.io/zupinnovation/jobs/5155779003)
 - [Estágio em Dados | Vaga afirmativa para Mulheres e/ou PCDs](https://boards.greenhouse.io/zupinnovation/jobs/5155843003)
 - [Estágio | Engenharia de Dados | Vaga afirmativa p/ Mulheres e/ou PCDs](https://boards.greenhouse.io/zupinnovation/jobs/5155852003)
@@ -68,7 +69,6 @@ Por que criamos tecnologia: https://www.youtube.com/watch?v=dncmhBEjko8
 - [Especialista Data Engineer](https://boards.greenhouse.io/zupinnovation/jobs/4937714003)
 - [Pessoa Desenvolvedora Java/Kotlin Sênior](https://boards.greenhouse.io/zupinnovation/jobs/5077883003)
 - [Tech Community](https://boards.greenhouse.io/zupinnovation/jobs/4988227003)
-- [Data Engineer Sênior](https://boards.greenhouse.io/zupinnovation/jobs/5075031003)
 <!-- BLOG-POST-LIST:END -->
 
 
