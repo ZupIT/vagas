@@ -49,6 +49,10 @@ Por que criamos tecnologia: https://www.youtube.com/watch?v=dncmhBEjko8
 ## Veja nossas oportunidades
 
 <!-- BLOG-POST-LIST:START -->
+- [Pessoa Engenheira de Dados](https://boards.greenhouse.io/zupinnovation/jobs/4937714003)
+- [Tech Lead Fullstack](https://boards.greenhouse.io/zupinnovation/jobs/5014449003)
+- [Pessoa Desenvolvedora Java/Kotlin - Especialista](https://boards.greenhouse.io/zupinnovation/jobs/5154972003)
+- [Quality Assurance Specialist](https://boards.greenhouse.io/zupinnovation/jobs/5142825003)
 - [Python Developer Senior [IaaS Fraud Engine]](https://boards.greenhouse.io/zupinnovation/jobs/5158157003)
 - [Data Analytics | Júnior | Vaga afirmativa para Mulheres e/ou PCDs](https://boards.greenhouse.io/zupinnovation/jobs/5155779003)
 - [Estágio em Dados | Vaga afirmativa para Mulheres e/ou PCDs](https://boards.greenhouse.io/zupinnovation/jobs/5155843003)
@@ -57,16 +61,12 @@ Por que criamos tecnologia: https://www.youtube.com/watch?v=dncmhBEjko8
 - [Pessoa Desenvolvedora IOS Especialista](https://boards.greenhouse.io/zupinnovation/jobs/5050388003)
 - [Pessoa UX Researcher](https://boards.greenhouse.io/zupinnovation/jobs/5057959003)
 - [Head de Transformação Digital - Vaga afirmativa para Pessoas Pretas e/ou PCDs](https://boards.greenhouse.io/zupinnovation/jobs/5151241003)
-- [Pessoa Desenvolvedora Back End Kotlin Sênior](https://boards.greenhouse.io/zupinnovation/jobs/5075030003)
 - [Pessoa Desenvolvedora Back End Java/Kotlin Sênior - Vaga afirmativa para mulheres!](https://boards.greenhouse.io/zupinnovation/jobs/5139899003)
-- [Pessoa Desenvolvedora Back End Java/Kotlin Sênior - Vaga afirmativa para pessoas com deficiência!](https://boards.greenhouse.io/zupinnovation/jobs/5139903003)
-- [Pessoa Desenvolvedora Back End Java/Kotlin Sênior - Vaga afirmativa para pessoas pretas!](https://boards.greenhouse.io/zupinnovation/jobs/5139917003)
 - [Pessoa Instrutora | Android](https://boards.greenhouse.io/zupinnovation/jobs/5130771003)
 - [Pessoa SRE/Devops Sênior](https://boards.greenhouse.io/zupinnovation/jobs/5060275003)
 - [Pessoa Instrutora I Java](https://boards.greenhouse.io/zupinnovation/jobs/5121197003)
 - [Pessoa Arquiteta de Dados](https://boards.greenhouse.io/zupinnovation/jobs/5037310003)
 - [Pessoa Engenheira de Machine Learning Sênior/Especialista](https://boards.greenhouse.io/zupinnovation/jobs/5095614003)
-- [Especialista Data Engineer](https://boards.greenhouse.io/zupinnovation/jobs/4937714003)
 - [Pessoa Desenvolvedora Java/Kotlin Sênior](https://boards.greenhouse.io/zupinnovation/jobs/5077883003)
 - [Tech Community](https://boards.greenhouse.io/zupinnovation/jobs/4988227003)
 <!-- BLOG-POST-LIST:END -->
