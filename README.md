@@ -49,7 +49,7 @@ Por que criamos tecnologia: https://www.youtube.com/watch?v=dncmhBEjko8
 ## Veja nossas oportunidades
 
 <!-- BLOG-POST-LIST:START -->
-- [Tech Lead Fullstack](https://boards.greenhouse.io/zupinnovation/jobs/5014449003)
+- [Python Developer Senior [IaaS Fraud Engine]](https://boards.greenhouse.io/zupinnovation/jobs/5158157003)
 - [Data Analytics | Júnior | Vaga afirmativa para Mulheres e/ou PCDs](https://boards.greenhouse.io/zupinnovation/jobs/5155779003)
 - [Estágio em Dados | Vaga afirmativa para Mulheres e/ou PCDs](https://boards.greenhouse.io/zupinnovation/jobs/5155843003)
 - [Estágio | Engenharia de Dados | Vaga afirmativa p/ Mulheres e/ou PCDs](https://boards.greenhouse.io/zupinnovation/jobs/5155852003)
