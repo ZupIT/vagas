@@ -49,8 +49,8 @@ Por que criamos tecnologia: https://www.youtube.com/watch?v=dncmhBEjko8
 ## Veja nossas oportunidades
 
 <!-- BLOG-POST-LIST:START -->
+- [Pessoa Desenvolvedora Backend Java Sênior/ Especialista](https://boards.greenhouse.io/zupinnovation/jobs/5165953003)
 - [Pessoa Desenvolvedora Java/Kotlin - Especialista](https://boards.greenhouse.io/zupinnovation/jobs/5154972003)
-- [Quality Assurance Specialist](https://boards.greenhouse.io/zupinnovation/jobs/5142825003)
 - [Pessoa Desenvolvedora Back End Java/Kotlin Sênior - Vaga afirmativa para pessoas com deficiência!](https://boards.greenhouse.io/zupinnovation/jobs/5139903003)
 - [Pessoa Desenvolvedora Back End Java/Kotlin Sênior - Vaga afirmativa para pessoas pretas!](https://boards.greenhouse.io/zupinnovation/jobs/5139917003)
 - [Pessoa Desenvolvedora Back End Kotlin Sênior](https://boards.greenhouse.io/zupinnovation/jobs/5075030003)
