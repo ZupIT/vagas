@@ -49,6 +49,9 @@ Por que criamos tecnologia: https://www.youtube.com/watch?v=dncmhBEjko8
 ## Veja nossas oportunidades
 
 <!-- BLOG-POST-LIST:START -->
+- [FP&amp;A Specialist](https://boards.greenhouse.io/zupinnovation/jobs/5169419003)
+- [Data Engineer Specialist](https://boards.greenhouse.io/zupinnovation/jobs/5169347003)
+- [Pessoa Desenvolvedora .Net Especialista](https://boards.greenhouse.io/zupinnovation/jobs/5166632003)
 - [Pessoa Engenheira de Machine Learning](https://boards.greenhouse.io/zupinnovation/jobs/5095614003)
 - [Pessoa Desenvolvedora Backend Java Sênior/ Especialista](https://boards.greenhouse.io/zupinnovation/jobs/5165953003)
 - [Pessoa Desenvolvedora Java/Kotlin - Especialista](https://boards.greenhouse.io/zupinnovation/jobs/5154972003)
@@ -59,14 +62,11 @@ Por que criamos tecnologia: https://www.youtube.com/watch?v=dncmhBEjko8
 - [Tech Lead Fullstack](https://boards.greenhouse.io/zupinnovation/jobs/5014449003)
 - [Python Developer Senior [IaaS Fraud Engine]](https://boards.greenhouse.io/zupinnovation/jobs/5158157003)
 - [Data Analytics | Júnior | Vaga afirmativa para Mulheres e/ou PCDs](https://boards.greenhouse.io/zupinnovation/jobs/5155779003)
-- [Estágio | Engenharia de Dados | Vaga afirmativa p/ Mulheres e/ou PCDs](https://boards.greenhouse.io/zupinnovation/jobs/5155852003)
 - [Facilities Assistant -Vaga afirmativa para Pessoas Pretas e/ou PCDs](https://boards.greenhouse.io/zupinnovation/jobs/5153536003)
 - [Pessoa Desenvolvedora IOS Especialista](https://boards.greenhouse.io/zupinnovation/jobs/5050388003)
 - [Head de Transformação Digital - Vaga afirmativa para Pessoas Pretas e/ou PCDs](https://boards.greenhouse.io/zupinnovation/jobs/5151241003)
 - [Pessoa Desenvolvedora Back End Java/Kotlin Sênior - Vaga afirmativa para mulheres!](https://boards.greenhouse.io/zupinnovation/jobs/5139899003)
-- [Pessoa Instrutora | Android](https://boards.greenhouse.io/zupinnovation/jobs/5130771003)
 - [Pessoa SRE/Devops Sênior](https://boards.greenhouse.io/zupinnovation/jobs/5060275003)
-- [Pessoa Instrutora I Java](https://boards.greenhouse.io/zupinnovation/jobs/5121197003)
 - [Pessoa Arquiteta de Dados](https://boards.greenhouse.io/zupinnovation/jobs/5037310003)
 - [Pessoa Desenvolvedora Java/Kotlin Sênior](https://boards.greenhouse.io/zupinnovation/jobs/5077883003)
 <!-- BLOG-POST-LIST:END -->
