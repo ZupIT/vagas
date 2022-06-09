@@ -49,6 +49,7 @@ Por que criamos tecnologia: https://www.youtube.com/watch?v=dncmhBEjko8
 ## Veja nossas oportunidades
 
 <!-- BLOG-POST-LIST:START -->
+- [Quality Assurance Specialist](https://boards.greenhouse.io/zupinnovation/jobs/5142825003)
 - [FP&amp;A Specialist](https://boards.greenhouse.io/zupinnovation/jobs/5169419003)
 - [Data Engineer Specialist](https://boards.greenhouse.io/zupinnovation/jobs/5169347003)
 - [Pessoa Desenvolvedora .Net Especialista](https://boards.greenhouse.io/zupinnovation/jobs/5166632003)
@@ -61,7 +62,6 @@ Por que criamos tecnologia: https://www.youtube.com/watch?v=dncmhBEjko8
 - [Pessoa Engenheira de Dados](https://boards.greenhouse.io/zupinnovation/jobs/4937714003)
 - [Tech Lead Fullstack](https://boards.greenhouse.io/zupinnovation/jobs/5014449003)
 - [Python Developer Senior [IaaS Fraud Engine]](https://boards.greenhouse.io/zupinnovation/jobs/5158157003)
-- [Data Analytics | Júnior | Vaga afirmativa para Mulheres e/ou PCDs](https://boards.greenhouse.io/zupinnovation/jobs/5155779003)
 - [Facilities Assistant -Vaga afirmativa para Pessoas Pretas e/ou PCDs](https://boards.greenhouse.io/zupinnovation/jobs/5153536003)
 - [Pessoa Desenvolvedora IOS Especialista](https://boards.greenhouse.io/zupinnovation/jobs/5050388003)
 - [Head de Transformação Digital - Vaga afirmativa para Pessoas Pretas e/ou PCDs](https://boards.greenhouse.io/zupinnovation/jobs/5151241003)
