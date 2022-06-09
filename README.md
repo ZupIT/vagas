@@ -49,7 +49,7 @@ Por que criamos tecnologia: https://www.youtube.com/watch?v=dncmhBEjko8
 ## Veja nossas oportunidades
 
 <!-- BLOG-POST-LIST:START -->
-- [Quality Assurance Specialist](https://boards.greenhouse.io/zupinnovation/jobs/5142825003)
+- [Accounting Analyst | Sênior | Vaga afirmativa para Mulheres](https://boards.greenhouse.io/zupinnovation/jobs/5170929003)
 - [FP&amp;A Specialist](https://boards.greenhouse.io/zupinnovation/jobs/5169419003)
 - [Data Engineer Specialist](https://boards.greenhouse.io/zupinnovation/jobs/5169347003)
 - [Pessoa Desenvolvedora .Net Especialista](https://boards.greenhouse.io/zupinnovation/jobs/5166632003)
