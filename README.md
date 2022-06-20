@@ -49,17 +49,17 @@ Por que criamos tecnologia: https://www.youtube.com/watch?v=dncmhBEjko8
 ## Veja nossas oportunidades
 
 <!-- BLOG-POST-LIST:START -->
+- [Analista Funcional Netsuite](https://boards.greenhouse.io/zupinnovation/jobs/5186227003)
+- [Dev Backend Kotlin](https://boards.greenhouse.io/zupinnovation/jobs/5186760003)
 - [Pessoa Desenvolvedora Front End React |Sênior - Vaga afirmativa para mulheres](https://boards.greenhouse.io/zupinnovation/jobs/5186175003)
 - [Pessoa Desenvolvedora Front End React |Sênior -Vaga afirmativa para pessoas pretas](https://boards.greenhouse.io/zupinnovation/jobs/5186194003)
 - [Pessoa Desenvolvedora Kotlin Sênior/Especialista](https://boards.greenhouse.io/zupinnovation/jobs/5185714003)
 - [Pessoa Desenvolvedora Backend Java](https://boards.greenhouse.io/zupinnovation/jobs/5165953003)
-- [Pessoa Service Designer Sênior](https://boards.greenhouse.io/zupinnovation/jobs/5178250003)
 - [Golang Developer Senior [Key Prossec]](https://boards.greenhouse.io/zupinnovation/jobs/5182589003)
 - [Tech Community](https://boards.greenhouse.io/zupinnovation/jobs/4988227003)
 - [Pessoa Instrutora | Android](https://boards.greenhouse.io/zupinnovation/jobs/5130771003)
 - [Cientista de Dados](https://boards.greenhouse.io/zupinnovation/jobs/5037288003)
 - [Pessoa Desenvolvedora Back End Java/Kotlin Sênior - Vaga afirmativa para mulheres!](https://boards.greenhouse.io/zupinnovation/jobs/5139899003)
-- [Accounting Analyst | Sênior | Vaga afirmativa para Mulheres](https://boards.greenhouse.io/zupinnovation/jobs/5170929003)
 - [FP&amp;A Specialist](https://boards.greenhouse.io/zupinnovation/jobs/5169419003)
 - [Pessoa Engenheira de Machine Learning](https://boards.greenhouse.io/zupinnovation/jobs/5095614003)
 - [Pessoa Desenvolvedora Back End Java/Kotlin Sênior - Vaga afirmativa para pessoas com deficiência!](https://boards.greenhouse.io/zupinnovation/jobs/5139903003)
