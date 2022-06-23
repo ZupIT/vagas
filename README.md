@@ -49,12 +49,12 @@ Por que criamos tecnologia: https://www.youtube.com/watch?v=dncmhBEjko8
 ## Veja nossas oportunidades
 
 <!-- BLOG-POST-LIST:START -->
+- [Tech Lead Fullstack](https://boards.greenhouse.io/zupinnovation/jobs/5014449003)
 - [Pessoa Desenvolvedora Front End React | Sênior](https://boards.greenhouse.io/zupinnovation/jobs/5189803003)
 - [Pessoa Engenheira de Machine Learning](https://boards.greenhouse.io/zupinnovation/jobs/5095614003)
 - [Pessoa Desenvolvedora Kotlin Sênior/Especialista](https://boards.greenhouse.io/zupinnovation/jobs/5185714003)
 - [Analista Marketing | SEO | Pleno](https://boards.greenhouse.io/zupinnovation/jobs/5187394003)
 - [Analista Funcional Netsuite](https://boards.greenhouse.io/zupinnovation/jobs/5186227003)
-- [Dev Backend Kotlin](https://boards.greenhouse.io/zupinnovation/jobs/5186760003)
 - [Pessoa Desenvolvedora Front End React |Sênior - Vaga afirmativa para mulheres](https://boards.greenhouse.io/zupinnovation/jobs/5186175003)
 - [Pessoa Desenvolvedora Front End React |Sênior -Vaga afirmativa para pessoas pretas](https://boards.greenhouse.io/zupinnovation/jobs/5186194003)
 - [Pessoa Desenvolvedora Backend Java](https://boards.greenhouse.io/zupinnovation/jobs/5165953003)
