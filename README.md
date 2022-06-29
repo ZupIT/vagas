@@ -49,7 +49,7 @@ Por que criamos tecnologia: https://www.youtube.com/watch?v=dncmhBEjko8
 ## Veja nossas oportunidades
 
 <!-- BLOG-POST-LIST:START -->
-- [Tech Lead Fullstack](https://boards.greenhouse.io/zupinnovation/jobs/5014449003)
+- [Back-End Developer Especialista](https://boards.greenhouse.io/zupinnovation/jobs/5201328003)
 - [Pessoa Desenvolvedora Front End React | Sênior](https://boards.greenhouse.io/zupinnovation/jobs/5189803003)
 - [Pessoa Engenheira de Machine Learning](https://boards.greenhouse.io/zupinnovation/jobs/5095614003)
 - [Pessoa Desenvolvedora Kotlin Sênior/Especialista](https://boards.greenhouse.io/zupinnovation/jobs/5185714003)
