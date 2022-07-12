@@ -49,8 +49,8 @@ Por que criamos tecnologia: https://www.youtube.com/watch?v=dncmhBEjko8
 ## Veja nossas oportunidades
 
 <!-- BLOG-POST-LIST:START -->
+- [Pessoa Tech Lead Backend Java/ Kotlin](https://boards.greenhouse.io/zupinnovation/jobs/5215201003)
 - [Procurement Analyst | Júnior](https://boards.greenhouse.io/zupinnovation/jobs/5214381003)
-- [Tech Lead Backend Java/ Kotlin](https://boards.greenhouse.io/zupinnovation/jobs/5215201003)
 - [Pessoa Desenvolvedora Java/Kotlin Sênior/Especialista](https://boards.greenhouse.io/zupinnovation/jobs/5213219003)
 - [Pessoas desenvolvedora Angular Sênior/Especialista](https://boards.greenhouse.io/zupinnovation/jobs/5213285003)
 - [Product Designer Sênior](https://boards.greenhouse.io/zupinnovation/jobs/5213303003)
