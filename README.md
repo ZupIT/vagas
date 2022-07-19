@@ -49,11 +49,11 @@ Por que criamos tecnologia: https://www.youtube.com/watch?v=dncmhBEjko8
 ## Veja nossas oportunidades
 
 <!-- BLOG-POST-LIST:START -->
+- [Tech Lead Java](https://boards.greenhouse.io/zupinnovation/jobs/5228856003)
 - [Design Lead](https://boards.greenhouse.io/zupinnovation/jobs/5227383003)
 - [Pessoa Desenvolvedora Backend Java Sênior](https://boards.greenhouse.io/zupinnovation/jobs/5185079003)
 - [Pessoa Engenheira de Dados Sênior/Especialista](https://boards.greenhouse.io/zupinnovation/jobs/5012251003)
 - [Pessoa Desenvolvedora Backend Kotlin Sênior](https://boards.greenhouse.io/zupinnovation/jobs/5220644003)
-- [Software Engineer Specialist](https://boards.greenhouse.io/zupinnovation/jobs/5151946003)
 - [Compliance Analyst | Sênior](https://boards.greenhouse.io/zupinnovation/jobs/5218788003)
 - [Tech Lead SRE](https://boards.greenhouse.io/zupinnovation/jobs/5195286003)
 - [Pessoa Desenvolvedora .Net Especialista](https://boards.greenhouse.io/zupinnovation/jobs/5166632003)
