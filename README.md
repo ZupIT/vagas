@@ -49,17 +49,17 @@ Por que criamos tecnologia: https://www.youtube.com/watch?v=dncmhBEjko8
 ## Veja nossas oportunidades
 
 <!-- BLOG-POST-LIST:START -->
+- [UI Designer | Pleno | Vaga afirmativa para Pessoas Pretas e/ou PCDs](https://boards.greenhouse.io/zupinnovation/jobs/5229953003)
+- [Pessoa Desenvolvedora Backend Sênior](https://boards.greenhouse.io/zupinnovation/jobs/5213219003)
+- [Pessoas desenvolvedora Angular Especialista](https://boards.greenhouse.io/zupinnovation/jobs/5213285003)
 - [QA Automatizador Sênior](https://boards.greenhouse.io/zupinnovation/jobs/5229171003)
 - [SRE Sênior/Especialista](https://boards.greenhouse.io/zupinnovation/jobs/5229149003)
-- [Tech Lead Java](https://boards.greenhouse.io/zupinnovation/jobs/5228856003)
 - [Design Lead](https://boards.greenhouse.io/zupinnovation/jobs/5227383003)
 - [Pessoa Desenvolvedora Backend Java Sênior](https://boards.greenhouse.io/zupinnovation/jobs/5185079003)
 - [Pessoa Engenheira de Dados Sênior/Especialista](https://boards.greenhouse.io/zupinnovation/jobs/5012251003)
 - [Pessoa Desenvolvedora Backend Kotlin Sênior](https://boards.greenhouse.io/zupinnovation/jobs/5220644003)
 - [Compliance Analyst | Sênior](https://boards.greenhouse.io/zupinnovation/jobs/5218788003)
 - [Pessoa Tech Lead Backend Java/ Kotlin](https://boards.greenhouse.io/zupinnovation/jobs/5215201003)
-- [Pessoa Desenvolvedora Java/Kotlin Sênior/Especialista](https://boards.greenhouse.io/zupinnovation/jobs/5213219003)
-- [Pessoas desenvolvedora Angular Sênior/Especialista](https://boards.greenhouse.io/zupinnovation/jobs/5213285003)
 - [Product Designer Sênior](https://boards.greenhouse.io/zupinnovation/jobs/5213303003)
 - [Pessoa SRE/Devops &lpar;Conhecimento Go&rpar;](https://boards.greenhouse.io/zupinnovation/jobs/5060275003)
 - [Pessoa Desenvolvedora Front End React | Sênior](https://boards.greenhouse.io/zupinnovation/jobs/5189803003)
