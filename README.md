@@ -49,6 +49,7 @@ Por que criamos tecnologia: https://www.youtube.com/watch?v=dncmhBEjko8
 ## Veja nossas oportunidades
 
 <!-- BLOG-POST-LIST:START -->
+- [SRE Sênior/Especialista](https://boards.greenhouse.io/zupinnovation/jobs/5229149003)
 - [Business Partner | Júnior| Vaga afirmativa para Pessoas PCDs](https://boards.greenhouse.io/zupinnovation/jobs/5233472003)
 - [Business Partner | Júnior| Vaga afirmativa para Pessoas Pretas](https://boards.greenhouse.io/zupinnovation/jobs/5233070003)
 - [Pessoa Especialista Desenvolvedora Kotlin](https://boards.greenhouse.io/zupinnovation/jobs/5231291003)
@@ -66,7 +67,6 @@ Por que criamos tecnologia: https://www.youtube.com/watch?v=dncmhBEjko8
 - [Pessoa SRE/Devops &lpar;Conhecimento Go&rpar;](https://boards.greenhouse.io/zupinnovation/jobs/5060275003)
 - [Pessoa Desenvolvedora Front End React | Sênior](https://boards.greenhouse.io/zupinnovation/jobs/5189803003)
 - [Analista Funcional Netsuite](https://boards.greenhouse.io/zupinnovation/jobs/5186227003)
-- [Tech Community](https://boards.greenhouse.io/zupinnovation/jobs/4988227003)
 - [Pessoa Arquiteta de Dados](https://boards.greenhouse.io/zupinnovation/jobs/5037310003)
 - [SRE DevOps - Cloud Architect](https://boards.greenhouse.io/zupinnovation/jobs/5056303003)
 <!-- BLOG-POST-LIST:END -->
