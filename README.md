@@ -49,6 +49,7 @@ Por que criamos tecnologia: https://www.youtube.com/watch?v=dncmhBEjko8
 ## Veja nossas oportunidades
 
 <!-- BLOG-POST-LIST:START -->
+- [QA Automatizador Sênior/Especialista](https://boards.greenhouse.io/zupinnovation/jobs/5229171003)
 - [SRE Sênior/Especialista](https://boards.greenhouse.io/zupinnovation/jobs/5229149003)
 - [Business Partner | Júnior| Vaga afirmativa para Pessoas PCDs](https://boards.greenhouse.io/zupinnovation/jobs/5233472003)
 - [Business Partner | Júnior| Vaga afirmativa para Pessoas Pretas](https://boards.greenhouse.io/zupinnovation/jobs/5233070003)
@@ -56,7 +57,6 @@ Por que criamos tecnologia: https://www.youtube.com/watch?v=dncmhBEjko8
 - [UI Designer | Pleno | Vaga afirmativa para Pessoas Pretas e/ou PCDs](https://boards.greenhouse.io/zupinnovation/jobs/5229953003)
 - [Pessoa Desenvolvedora Backend Sênior](https://boards.greenhouse.io/zupinnovation/jobs/5213219003)
 - [Pessoas desenvolvedora Angular Especialista](https://boards.greenhouse.io/zupinnovation/jobs/5213285003)
-- [QA Automatizador Sênior](https://boards.greenhouse.io/zupinnovation/jobs/5229171003)
 - [Design Lead](https://boards.greenhouse.io/zupinnovation/jobs/5227383003)
 - [Pessoa Desenvolvedora Backend Java Sênior](https://boards.greenhouse.io/zupinnovation/jobs/5185079003)
 - [Pessoa Engenheira de Dados Sênior/Especialista](https://boards.greenhouse.io/zupinnovation/jobs/5012251003)
