@@ -49,10 +49,10 @@ Por que criamos tecnologia: https://www.youtube.com/watch?v=dncmhBEjko8
 ## Veja nossas oportunidades
 
 <!-- BLOG-POST-LIST:START -->
+- [Pessoa desenvolvedora Backend Kotlin](https://boards.greenhouse.io/zupinnovation/jobs/5237140003)
+- [Tech Lead Fullstack](https://boards.greenhouse.io/zupinnovation/jobs/5014449003)
 - [QA Automatizador Sênior/Especialista](https://boards.greenhouse.io/zupinnovation/jobs/5229171003)
 - [SRE Sênior/Especialista](https://boards.greenhouse.io/zupinnovation/jobs/5229149003)
-- [Business Partner | Júnior| Vaga afirmativa para Pessoas PCDs](https://boards.greenhouse.io/zupinnovation/jobs/5233472003)
-- [Business Partner | Júnior| Vaga afirmativa para Pessoas Pretas](https://boards.greenhouse.io/zupinnovation/jobs/5233070003)
 - [Pessoa Especialista Desenvolvedora Kotlin](https://boards.greenhouse.io/zupinnovation/jobs/5231291003)
 - [UI Designer | Pleno | Vaga afirmativa para Pessoas Pretas e/ou PCDs](https://boards.greenhouse.io/zupinnovation/jobs/5229953003)
 - [Pessoa Desenvolvedora Backend Sênior](https://boards.greenhouse.io/zupinnovation/jobs/5213219003)
