@@ -49,7 +49,7 @@ Por que criamos tecnologia: https://www.youtube.com/watch?v=dncmhBEjko8
 ## Veja nossas oportunidades
 
 <!-- BLOG-POST-LIST:START -->
-- [Analista Financeiro | Pleno](https://boards.greenhouse.io/zupinnovation/jobs/5240448003)
+- [Tech Lead Java](https://boards.greenhouse.io/zupinnovation/jobs/5228856003)
 - [Pessoa desenvolvedora Backend Kotlin](https://boards.greenhouse.io/zupinnovation/jobs/5237140003)
 - [Tech Lead Fullstack](https://boards.greenhouse.io/zupinnovation/jobs/5014449003)
 - [QA Automatizador Sênior/Especialista](https://boards.greenhouse.io/zupinnovation/jobs/5229171003)
