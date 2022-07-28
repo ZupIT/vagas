@@ -49,6 +49,8 @@ Por que criamos tecnologia: https://www.youtube.com/watch?v=dncmhBEjko8
 ## Veja nossas oportunidades
 
 <!-- BLOG-POST-LIST:START -->
+- [Pessoa desenvolvedora Angular Sênior](https://boards.greenhouse.io/zupinnovation/jobs/5213285003)
+- [Tech Lead Java/Kotlin](https://boards.greenhouse.io/zupinnovation/jobs/5237265003)
 - [Tech Lead Java](https://boards.greenhouse.io/zupinnovation/jobs/5228856003)
 - [Pessoa desenvolvedora Backend Kotlin](https://boards.greenhouse.io/zupinnovation/jobs/5237140003)
 - [Tech Lead Fullstack](https://boards.greenhouse.io/zupinnovation/jobs/5014449003)
@@ -57,7 +59,6 @@ Por que criamos tecnologia: https://www.youtube.com/watch?v=dncmhBEjko8
 - [Pessoa Especialista Desenvolvedora Kotlin](https://boards.greenhouse.io/zupinnovation/jobs/5231291003)
 - [UI Designer | Pleno | Vaga afirmativa para Pessoas Pretas e/ou PCDs](https://boards.greenhouse.io/zupinnovation/jobs/5229953003)
 - [Pessoa Desenvolvedora Backend Sênior](https://boards.greenhouse.io/zupinnovation/jobs/5213219003)
-- [Pessoas desenvolvedora Angular Especialista](https://boards.greenhouse.io/zupinnovation/jobs/5213285003)
 - [Design Lead](https://boards.greenhouse.io/zupinnovation/jobs/5227383003)
 - [Pessoa Desenvolvedora Backend Java Sênior](https://boards.greenhouse.io/zupinnovation/jobs/5185079003)
 - [Pessoa Engenheira de Dados Sênior/Especialista](https://boards.greenhouse.io/zupinnovation/jobs/5012251003)
@@ -66,7 +67,6 @@ Por que criamos tecnologia: https://www.youtube.com/watch?v=dncmhBEjko8
 - [Pessoa Tech Lead Backend Java/ Kotlin](https://boards.greenhouse.io/zupinnovation/jobs/5215201003)
 - [Pessoa SRE/Devops &lpar;Conhecimento Go&rpar;](https://boards.greenhouse.io/zupinnovation/jobs/5060275003)
 - [Pessoa Desenvolvedora Front End React | Sênior](https://boards.greenhouse.io/zupinnovation/jobs/5189803003)
-- [Analista Funcional Netsuite](https://boards.greenhouse.io/zupinnovation/jobs/5186227003)
 - [Pessoa Arquiteta de Dados](https://boards.greenhouse.io/zupinnovation/jobs/5037310003)
 - [SRE DevOps - Cloud Architect](https://boards.greenhouse.io/zupinnovation/jobs/5056303003)
 <!-- BLOG-POST-LIST:END -->
