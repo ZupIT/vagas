@@ -49,10 +49,10 @@ Por que criamos tecnologia: https://www.youtube.com/watch?v=dncmhBEjko8
 ## Veja nossas oportunidades
 
 <!-- BLOG-POST-LIST:START -->
-- [Software Engineer Specialist](https://boards.greenhouse.io/zupinnovation/jobs/5151946003)
+- [Dev Golang Especialista](https://boards.greenhouse.io/zupinnovation/jobs/5260338003)
+- [Pessoa Tech Lead Java/Kotlin](https://boards.greenhouse.io/zupinnovation/jobs/5237265003)
 - [Tech Lead SRE](https://boards.greenhouse.io/zupinnovation/jobs/5195286003)
 - [Infrastructure Analyst | ServiceNow | ITSM](https://boards.greenhouse.io/zupinnovation/jobs/5248844003)
-- [Tech Lead Java/Kotlin](https://boards.greenhouse.io/zupinnovation/jobs/5237265003)
 - [Tech Lead Java](https://boards.greenhouse.io/zupinnovation/jobs/5228856003)
 - [Pessoa desenvolvedora Backend Kotlin](https://boards.greenhouse.io/zupinnovation/jobs/5237140003)
 - [Tech Lead Fullstack](https://boards.greenhouse.io/zupinnovation/jobs/5014449003)
