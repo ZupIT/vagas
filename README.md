@@ -49,6 +49,7 @@ Por que criamos tecnologia: https://www.youtube.com/watch?v=dncmhBEjko8
 ## Veja nossas oportunidades
 
 <!-- BLOG-POST-LIST:START -->
+- [DevOps Sre Especialista](https://boards.greenhouse.io/zupinnovation/jobs/5185118003)
 - [Pessoa Desenvolvedora Back End Java/Kotlin Sênior - Vaga afirmativa para mulheres!](https://boards.greenhouse.io/zupinnovation/jobs/5263341003)
 - [Pessoa Desenvolvedora Back End Java/Kotlin Sênior - Vaga afirmativa para mulheres!](https://boards.greenhouse.io/zupinnovation/jobs/5263293003)
 - [Pessoa Desenvolvedora Back End Java/Kotlin Sênior - Vaga afirmativa para pessoas com deficiência!](https://boards.greenhouse.io/zupinnovation/jobs/5263330003)
@@ -57,7 +58,6 @@ Por que criamos tecnologia: https://www.youtube.com/watch?v=dncmhBEjko8
 - [Pessoa Desenvolvedora Back End Java/Kotlin Sênior - Vaga afirmativa para pessoas pretas!](https://boards.greenhouse.io/zupinnovation/jobs/5263336003)
 - [Pessoa desenvolvedora Backend Kotlin Sênior/Especialista](https://boards.greenhouse.io/zupinnovation/jobs/5237140003)
 - [Dev Golang Especialista](https://boards.greenhouse.io/zupinnovation/jobs/5260338003)
-- [Pessoa Tech Lead Java/Kotlin](https://boards.greenhouse.io/zupinnovation/jobs/5237265003)
 - [Infrastructure Analyst | ServiceNow | ITSM](https://boards.greenhouse.io/zupinnovation/jobs/5248844003)
 - [Pessoa Especialista Desenvolvedora Kotlin](https://boards.greenhouse.io/zupinnovation/jobs/5231291003)
 - [Pessoa Desenvolvedora Backend Sênior](https://boards.greenhouse.io/zupinnovation/jobs/5213219003)
