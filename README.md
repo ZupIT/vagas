@@ -49,6 +49,7 @@ Por que criamos tecnologia: https://www.youtube.com/watch?v=dncmhBEjko8
 ## Veja nossas oportunidades
 
 <!-- BLOG-POST-LIST:START -->
+- [ServiceNow Consultant](https://boards.greenhouse.io/zupinnovation/jobs/5248844003)
 - [Engineering Manager - Vaga afirmativa para mulheres!](https://boards.greenhouse.io/zupinnovation/jobs/5280588003)
 - [Pessoa Desenvolvedora Back End Java/Kotlin Sênior - Vaga afirmativa para mulheres!](https://boards.greenhouse.io/zupinnovation/jobs/5274855003)
 - [Pessoa Desenvolvedora Back End Java/Kotlin Sênior - Vaga afirmativa para pessoas com deficiência!](https://boards.greenhouse.io/zupinnovation/jobs/5275247003)
@@ -61,7 +62,6 @@ Por que criamos tecnologia: https://www.youtube.com/watch?v=dncmhBEjko8
 - [Pessoa Tech Lead Java/Kotlin](https://boards.greenhouse.io/zupinnovation/jobs/5237265003)
 - [QA Automatizador Sênior/Especialista](https://boards.greenhouse.io/zupinnovation/jobs/5229171003)
 - [SRE DevOps - Cloud Architect](https://boards.greenhouse.io/zupinnovation/jobs/5056303003)
-- [SRE Sênior/Especialista](https://boards.greenhouse.io/zupinnovation/jobs/5229149003)
 - [Tech Lead Fullstack](https://boards.greenhouse.io/zupinnovation/jobs/5014449003)
 - [DevOps Sre Especialista](https://boards.greenhouse.io/zupinnovation/jobs/5185118003)
 - [Dev Golang Especialista](https://boards.greenhouse.io/zupinnovation/jobs/5260338003)
