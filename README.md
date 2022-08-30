@@ -49,6 +49,7 @@ Por que criamos tecnologia: https://www.youtube.com/watch?v=dncmhBEjko8
 ## Veja nossas oportunidades
 
 <!-- BLOG-POST-LIST:START -->
+- [FP&amp;A Specialist | Finance Partner](https://boards.greenhouse.io/zupinnovation/jobs/5287270003)
 - [ServiceNow Consultant](https://boards.greenhouse.io/zupinnovation/jobs/5248844003)
 - [Engineering Manager - Vaga afirmativa para mulheres!](https://boards.greenhouse.io/zupinnovation/jobs/5280588003)
 - [Pessoa Desenvolvedora Back End Java/Kotlin Sênior - Vaga afirmativa para mulheres!](https://boards.greenhouse.io/zupinnovation/jobs/5274855003)
