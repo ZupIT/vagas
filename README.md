@@ -49,8 +49,8 @@ Por que criamos tecnologia: https://www.youtube.com/watch?v=dncmhBEjko8
 ## Veja nossas oportunidades
 
 <!-- BLOG-POST-LIST:START -->
+- [Tech Lead Live Pass [SecGov]](https://boards.greenhouse.io/zupinnovation/jobs/5249753003)
 - [SRE DevOps](https://boards.greenhouse.io/zupinnovation/jobs/5056303003)
-- [Tech Lead](https://boards.greenhouse.io/zupinnovation/jobs/5014449003)
 - [Pessoa SRE/Devops](https://boards.greenhouse.io/zupinnovation/jobs/5060275003)
 - [Pessoa desenvolvedora Backend Kotlin Sênior/Especialista](https://boards.greenhouse.io/zupinnovation/jobs/5237140003)
 - [FP&amp;A Specialist | Finance Partner](https://boards.greenhouse.io/zupinnovation/jobs/5287270003)
