@@ -49,6 +49,8 @@ Por que criamos tecnologia: https://www.youtube.com/watch?v=dncmhBEjko8
 ## Veja nossas oportunidades
 
 <!-- BLOG-POST-LIST:START -->
+- [Audit Analyst | Sênior](https://boards.greenhouse.io/zupinnovation/jobs/5296388003)
+- [Payroll Assistant](https://boards.greenhouse.io/zupinnovation/jobs/5296486003)
 - [Tech Lead Live Pass [SecGov]](https://boards.greenhouse.io/zupinnovation/jobs/5249753003)
 - [Pessoa SRE/Devops](https://boards.greenhouse.io/zupinnovation/jobs/5060275003)
 - [Pessoa desenvolvedora Backend Kotlin Sênior/Especialista](https://boards.greenhouse.io/zupinnovation/jobs/5237140003)
@@ -61,7 +63,6 @@ Por que criamos tecnologia: https://www.youtube.com/watch?v=dncmhBEjko8
 - [Pessoa Desenvolvedora Backend Java/Kotlin Sênior/Especialista](https://boards.greenhouse.io/zupinnovation/jobs/5185079003)
 - [Software Engineer Specialist](https://boards.greenhouse.io/zupinnovation/jobs/5151946003)
 - [Cyber Threat Intelligence Pleno](https://boards.greenhouse.io/zupinnovation/jobs/5231309003)
-- [Pessoa Arquiteta de Dados](https://boards.greenhouse.io/zupinnovation/jobs/5037310003)
 - [Pessoa Tech Lead Java/Kotlin](https://boards.greenhouse.io/zupinnovation/jobs/5237265003)
 - [QA Automatizador Sênior/Especialista](https://boards.greenhouse.io/zupinnovation/jobs/5229171003)
 - [DevOps Sre Especialista](https://boards.greenhouse.io/zupinnovation/jobs/5185118003)
