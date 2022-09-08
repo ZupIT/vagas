@@ -49,6 +49,7 @@ Por que criamos tecnologia: https://www.youtube.com/watch?v=dncmhBEjko8
 ## Veja nossas oportunidades
 
 <!-- BLOG-POST-LIST:START -->
+- [Estágio em Direito](https://boards.greenhouse.io/zupinnovation/jobs/5302231003)
 - [Audit Analyst | Technology | Sênior](https://boards.greenhouse.io/zupinnovation/jobs/5296492003)
 - [Audit Analyst | Sênior](https://boards.greenhouse.io/zupinnovation/jobs/5296388003)
 - [Payroll Assistant](https://boards.greenhouse.io/zupinnovation/jobs/5296486003)
@@ -56,7 +57,6 @@ Por que criamos tecnologia: https://www.youtube.com/watch?v=dncmhBEjko8
 - [Pessoa SRE/Devops](https://boards.greenhouse.io/zupinnovation/jobs/5060275003)
 - [Pessoa desenvolvedora Backend Kotlin Sênior/Especialista](https://boards.greenhouse.io/zupinnovation/jobs/5237140003)
 - [FP&amp;A Specialist | Finance Partner](https://boards.greenhouse.io/zupinnovation/jobs/5287270003)
-- [ServiceNow Consultant](https://boards.greenhouse.io/zupinnovation/jobs/5248844003)
 - [Engineering Manager - Vaga afirmativa para mulheres!](https://boards.greenhouse.io/zupinnovation/jobs/5280588003)
 - [Pessoa Desenvolvedora Back End Java/Kotlin Sênior - Vaga afirmativa para mulheres!](https://boards.greenhouse.io/zupinnovation/jobs/5274855003)
 - [Pessoa Desenvolvedora Back End Java/Kotlin Sênior - Vaga afirmativa para pessoas com deficiência!](https://boards.greenhouse.io/zupinnovation/jobs/5275247003)
@@ -68,7 +68,6 @@ Por que criamos tecnologia: https://www.youtube.com/watch?v=dncmhBEjko8
 - [QA Automatizador Sênior/Especialista](https://boards.greenhouse.io/zupinnovation/jobs/5229171003)
 - [DevOps Sre Especialista](https://boards.greenhouse.io/zupinnovation/jobs/5185118003)
 - [Dev Golang Especialista](https://boards.greenhouse.io/zupinnovation/jobs/5260338003)
-- [Pessoa Especialista Desenvolvedora Kotlin](https://boards.greenhouse.io/zupinnovation/jobs/5231291003)
 <!-- BLOG-POST-LIST:END -->
 
 
