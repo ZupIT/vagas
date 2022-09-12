@@ -49,7 +49,13 @@ Por que criamos tecnologia: https://www.youtube.com/watch?v=dncmhBEjko8
 ## Veja nossas oportunidades
 
 <!-- BLOG-POST-LIST:START -->
-- [Chapter Lead Dados - Bella](https://boards.greenhouse.io/zupinnovation/jobs/5306713003)
+- [Account Specialist](https://boards.greenhouse.io/zupinnovation/jobs/5307465003)
+- [Data Analytics Sr](https://boards.greenhouse.io/zupinnovation/jobs/5307530003)
+- [Pessoa Desenvolvedora Backend Java/Kotlin Pleno/Sênior](https://boards.greenhouse.io/zupinnovation/jobs/5185079003)
+- [Pessoa Desenvolvedora Back End Java/Kotlin Pleno/ Sênior - Vaga afirmativa para mulheres!](https://boards.greenhouse.io/zupinnovation/jobs/5274855003)
+- [Pessoa Desenvolvedora Back End Java/Kotlin Pleno/Sênior - Vaga afirmativa para pessoas com deficiência!](https://boards.greenhouse.io/zupinnovation/jobs/5275247003)
+- [Pessoa Desenvolvedora Back End Java/Kotlin Pleno/Sênior - Vaga afirmativa para pessoas pretas!](https://boards.greenhouse.io/zupinnovation/jobs/5275251003)
+- [Chapter Lead - Data Analytics](https://boards.greenhouse.io/zupinnovation/jobs/5306713003)
 - [Estágio em Direito](https://boards.greenhouse.io/zupinnovation/jobs/5302231003)
 - [Audit Analyst | Technology | Sênior](https://boards.greenhouse.io/zupinnovation/jobs/5296492003)
 - [Audit Analyst | Sênior](https://boards.greenhouse.io/zupinnovation/jobs/5296388003)
@@ -57,10 +63,6 @@ Por que criamos tecnologia: https://www.youtube.com/watch?v=dncmhBEjko8
 - [Pessoa SRE/Devops](https://boards.greenhouse.io/zupinnovation/jobs/5060275003)
 - [Pessoa desenvolvedora Backend Kotlin Sênior/Especialista](https://boards.greenhouse.io/zupinnovation/jobs/5237140003)
 - [Engineering Manager - Vaga afirmativa para mulheres!](https://boards.greenhouse.io/zupinnovation/jobs/5280588003)
-- [Pessoa Desenvolvedora Back End Java/Kotlin Sênior - Vaga afirmativa para mulheres!](https://boards.greenhouse.io/zupinnovation/jobs/5274855003)
-- [Pessoa Desenvolvedora Back End Java/Kotlin Sênior - Vaga afirmativa para pessoas com deficiência!](https://boards.greenhouse.io/zupinnovation/jobs/5275247003)
-- [Pessoa Desenvolvedora Back End Java/Kotlin Sênior - Vaga afirmativa para pessoas pretas!](https://boards.greenhouse.io/zupinnovation/jobs/5275251003)
-- [Pessoa Desenvolvedora Backend Java/Kotlin Sênior/Especialista](https://boards.greenhouse.io/zupinnovation/jobs/5185079003)
 - [Software Engineer Specialist](https://boards.greenhouse.io/zupinnovation/jobs/5151946003)
 - [Cyber Threat Intelligence Pleno](https://boards.greenhouse.io/zupinnovation/jobs/5231309003)
 - [Pessoa Tech Lead Java/Kotlin](https://boards.greenhouse.io/zupinnovation/jobs/5237265003)
