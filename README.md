@@ -49,6 +49,7 @@ Por que criamos tecnologia: https://www.youtube.com/watch?v=dncmhBEjko8
 ## Veja nossas oportunidades
 
 <!-- BLOG-POST-LIST:START -->
+- [Chapter Lead Dados - Bella](https://boards.greenhouse.io/zupinnovation/jobs/5306713003)
 - [Estágio em Direito](https://boards.greenhouse.io/zupinnovation/jobs/5302231003)
 - [Audit Analyst | Technology | Sênior](https://boards.greenhouse.io/zupinnovation/jobs/5296492003)
 - [Audit Analyst | Sênior](https://boards.greenhouse.io/zupinnovation/jobs/5296388003)
