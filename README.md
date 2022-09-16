@@ -49,6 +49,7 @@ Por que criamos tecnologia: https://www.youtube.com/watch?v=dncmhBEjko8
 ## Veja nossas oportunidades
 
 <!-- BLOG-POST-LIST:START -->
+- [Account Specialist](https://boards.greenhouse.io/zupinnovation/jobs/5307465003)
 - [Analista de Testes automatizados Sênior - QA](https://boards.greenhouse.io/zupinnovation/jobs/5312394003)
 - [Tech Lead Backend](https://boards.greenhouse.io/zupinnovation/jobs/5269180003)
 - [Tech Lead Java - Vaga afirmativa para mulheres!](https://boards.greenhouse.io/zupinnovation/jobs/5308437003)
@@ -67,7 +68,6 @@ Por que criamos tecnologia: https://www.youtube.com/watch?v=dncmhBEjko8
 - [Engineering Manager - Vaga afirmativa para mulheres!](https://boards.greenhouse.io/zupinnovation/jobs/5280588003)
 - [Pessoa Tech Lead Java/Kotlin](https://boards.greenhouse.io/zupinnovation/jobs/5237265003)
 - [QA Automatizador Sênior/Especialista](https://boards.greenhouse.io/zupinnovation/jobs/5229171003)
-- [DevOps Sre Especialista](https://boards.greenhouse.io/zupinnovation/jobs/5185118003)
 - [Dev Golang Especialista](https://boards.greenhouse.io/zupinnovation/jobs/5260338003)
 <!-- BLOG-POST-LIST:END -->
 
