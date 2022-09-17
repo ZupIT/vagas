@@ -49,7 +49,7 @@ Por que criamos tecnologia: https://www.youtube.com/watch?v=dncmhBEjko8
 ## Veja nossas oportunidades
 
 <!-- BLOG-POST-LIST:START -->
-- [Account Specialist](https://boards.greenhouse.io/zupinnovation/jobs/5307465003)
+- [Cyber Threat Intelligence Pleno](https://boards.greenhouse.io/zupinnovation/jobs/5231309003)
 - [Analista de Testes automatizados Sênior - QA](https://boards.greenhouse.io/zupinnovation/jobs/5312394003)
 - [Tech Lead Backend](https://boards.greenhouse.io/zupinnovation/jobs/5269180003)
 - [Tech Lead Java - Vaga afirmativa para mulheres!](https://boards.greenhouse.io/zupinnovation/jobs/5308437003)
