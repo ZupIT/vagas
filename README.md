@@ -49,6 +49,7 @@ Por que criamos tecnologia: https://www.youtube.com/watch?v=dncmhBEjko8
 ## Veja nossas oportunidades
 
 <!-- BLOG-POST-LIST:START -->
+- [Tech Lead Cloud Security [SecGov]](https://boards.greenhouse.io/zupinnovation/jobs/5325102003)
 - [Pessoa Desenvolvedora Especialista Back-End - Vaga Afirmativa para Mulheres](https://boards.greenhouse.io/zupinnovation/jobs/5308465003)
 - [Manager IT [SecGov]](https://boards.greenhouse.io/zupinnovation/jobs/5249753003)
 - [Cyber Threat Intelligence Pleno](https://boards.greenhouse.io/zupinnovation/jobs/5231309003)
