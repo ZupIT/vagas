@@ -61,8 +61,6 @@ Por que criamos tecnologia: https://www.youtube.com/watch?v=dncmhBEjko8
 - [Audit Analyst | Technology | Sênior](https://boards.greenhouse.io/zupinnovation/jobs/5296492003)
 - [Pessoa SRE/Devops](https://boards.greenhouse.io/zupinnovation/jobs/5060275003)
 - [Pessoa desenvolvedora Backend Kotlin Sênior/Especialista](https://boards.greenhouse.io/zupinnovation/jobs/5237140003)
-- [Engineering Manager - Vaga afirmativa para mulheres!](https://boards.greenhouse.io/zupinnovation/jobs/5280588003)
-- [Pessoa Tech Lead Java/Kotlin](https://boards.greenhouse.io/zupinnovation/jobs/5237265003)
 - [QA Automatizador Sênior/Especialista](https://boards.greenhouse.io/zupinnovation/jobs/5229171003)
 - [Dev Golang Especialista](https://boards.greenhouse.io/zupinnovation/jobs/5260338003)
 <!-- BLOG-POST-LIST:END -->
