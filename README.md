@@ -49,9 +49,9 @@ Por que criamos tecnologia: https://www.youtube.com/watch?v=dncmhBEjko8
 ## Veja nossas oportunidades
 
 <!-- BLOG-POST-LIST:START -->
+- [Tech lead Live Pass [SecGov]](https://boards.greenhouse.io/zupinnovation/jobs/5249753003)
 - [Tech Lead Cloud Security [SecGov]](https://boards.greenhouse.io/zupinnovation/jobs/5325102003)
 - [Pessoa Desenvolvedora Especialista Back-End - Vaga Afirmativa para Mulheres](https://boards.greenhouse.io/zupinnovation/jobs/5308465003)
-- [Manager IT [SecGov]](https://boards.greenhouse.io/zupinnovation/jobs/5249753003)
 - [Data Analytics Sr](https://boards.greenhouse.io/zupinnovation/jobs/5307530003)
 - [Pessoa Desenvolvedora Backend Java/Kotlin Pleno/Sênior](https://boards.greenhouse.io/zupinnovation/jobs/5185079003)
 - [Pessoa Desenvolvedora Back End Java/Kotlin Pleno/ Sênior - Vaga afirmativa para mulheres!](https://boards.greenhouse.io/zupinnovation/jobs/5274855003)
@@ -61,7 +61,6 @@ Por que criamos tecnologia: https://www.youtube.com/watch?v=dncmhBEjko8
 - [Audit Analyst | Technology | Sênior](https://boards.greenhouse.io/zupinnovation/jobs/5296492003)
 - [Pessoa SRE/Devops](https://boards.greenhouse.io/zupinnovation/jobs/5060275003)
 - [Pessoa desenvolvedora Backend Kotlin Sênior/Especialista](https://boards.greenhouse.io/zupinnovation/jobs/5237140003)
-- [QA Automatizador Sênior/Especialista](https://boards.greenhouse.io/zupinnovation/jobs/5229171003)
 - [Dev Golang Especialista](https://boards.greenhouse.io/zupinnovation/jobs/5260338003)
 <!-- BLOG-POST-LIST:END -->
 
